@@ -1,0 +1,29 @@
+<div class="main-page">
+    <h1>Uhelné elektrárny v ČR</h1>
+    <p>
+        Tady bude napsáno co to je, jak to funguje a k čemu to bylo.
+    </p>
+    <h2>Historický kontext</h2>
+    <p>
+        Tady bude nějaký přehled k historii.
+    </p>
+    <h2>Dnešní kontext</h2>
+    <p>
+        Tady bude shrnutí aktuálního stavu.
+    </p>
+    
+    <h2>Přehled uhelných elektráren v ČR</h2>
+    <div class="map-container">
+        <mgl-map #mapa
+            [style]="'/assets/slepa_mapa_osm.json'"
+            [zoom]="[6.4]"
+            [center]="[15.5, 49.8]"
+            (mapLoad)="mapLoaded($event)"
+        >
+        </mgl-map>
+    </div>
+    <div #powerplantinfo>
+
+    </div>
+
+</div>
