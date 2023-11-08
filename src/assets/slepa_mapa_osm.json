@@ -13,7 +13,7 @@
     },
     "elektrarny": {
       "type": "geojson",
-      "data": "/assets/elektrarny_geojson.json"
+      "data": "assets/elektrarny_geojson.json"
     }
   },
   "sprite": [

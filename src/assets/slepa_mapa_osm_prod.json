@@ -13,7 +13,7 @@
     },
     "elektrarny": {
       "type": "geojson",
-      "data": "/assets/elektrarny_geojson.json"
+      "data": "https://lukasmican.github.io/uhelne-elektrarny/assets/elektrarny_geojson.json"
     }
   },
   "sprite": [
@@ -23,7 +23,7 @@
     },
     {
       "id": "custom_icons",
-      "url": "http://localhost:4200/assets/custom_icons"
+      "url": "https://lukasmican.github.io/uhelne-elektrarny/assets/custom_icons"
     }
   ],
   "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
@@ -64,7 +64,7 @@
       "source-layer": "landuse",
       "maxzoom": 8,
       "filter": ["==", "class", "residential"],
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
         "fill-color": {
           "base": 1,
@@ -921,12 +921,15 @@
       "layout": {
         "line-cap": "round",
         "line-join": "round",
-        "visibility": "none"
+        "visibility": "visible"
       },
       "paint": {
         "line-color": {
           "base": 1,
-          "stops": [[5, "hsl(26, 87%, 62%)"], [6, "#fc8"]]
+          "stops": [
+            [5, "rgba(56, 56, 56, 0.59)"],
+            [6, "rgba(190, 190, 190, 0.72)"]
+          ]
         },
         "line-width": {"base": 1.2, "stops": [[5, 0], [7, 1], [20, 18]]}
       }
@@ -941,7 +944,7 @@
         ["!in", "brunnel", "bridge", "tunnel"],
         ["==", "class", "rail"]
       ],
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
         "line-color": "#bbb",
         "line-width": {"base": 1.4, "stops": [[14, 0.4], [15, 0.75], [20, 2]]}
@@ -957,7 +960,7 @@
         ["!in", "brunnel", "bridge", "tunnel"],
         ["==", "class", "rail"]
       ],
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
         "line-color": "#bbb",
         "line-dasharray": [0.2, 8],
@@ -974,7 +977,7 @@
         ["!in", "brunnel", "bridge", "tunnel"],
         ["==", "class", "transit"]
       ],
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
         "line-color": "#bbb",
         "line-width": {"base": 1.4, "stops": [[14, 0.4], [15, 0.75], [20, 2]]}
@@ -990,7 +993,7 @@
         ["!in", "brunnel", "bridge", "tunnel"],
         ["==", "class", "transit"]
       ],
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
         "line-color": "#bbb",
         "line-dasharray": [0.2, 8],
@@ -1361,8 +1364,9 @@
       "type": "fill",
       "source": "openmaptiles",
       "source-layer": "building",
-      "minzoom": 13,
-      "maxzoom": 14,
+      "minzoom": 8,
+      "maxzoom": 21,
+      "layout": {"visibility": "visible"},
       "paint": {
         "fill-color": "hsl(35, 8%, 85%)",
         "fill-outline-color": {
@@ -1376,7 +1380,7 @@
       "type": "fill-extrusion",
       "source": "openmaptiles",
       "source-layer": "building",
-      "minzoom": 14,
+      "minzoom": 6,
       "paint": {
         "fill-extrusion-color": "hsl(35, 8%, 85%)",
         "fill-extrusion-height": {
@@ -1489,7 +1493,8 @@
         "text-font": ["Metropolis Thin Italic"],
         "text-max-width": 9,
         "text-offset": [0, 0.6],
-        "text-size": 12
+        "text-size": 12,
+        "visibility": "none"
       },
       "paint": {
         "text-color": "#666",
@@ -1523,7 +1528,8 @@
         "text-font": ["Metropolis Thin Italic"],
         "text-max-width": 9,
         "text-offset": [0, 0.6],
-        "text-size": 12
+        "text-size": 12,
+        "visibility": "none"
       },
       "paint": {
         "text-color": "#666",
@@ -1557,7 +1563,8 @@
         "text-font": ["Metropolis Thin Italic"],
         "text-max-width": 9,
         "text-offset": [0, 0.6],
-        "text-size": 12
+        "text-size": 12,
+        "visibility": "none"
       },
       "paint": {
         "text-color": "#666",
@@ -1579,7 +1586,8 @@
         "text-font": ["Metropolis Thin Italic"],
         "text-max-width": 9,
         "text-offset": [0.9, 0],
-        "text-size": 12
+        "text-size": 12,
+        "visibility": "none"
       },
       "paint": {
         "text-color": "#4898ff",
