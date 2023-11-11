@@ -15,15 +15,48 @@
     <h2>Přehled uhelných elektráren v ČR</h2>
     <div class="map-container">
         <mgl-map #mapa
-            [style]="'assets/slepa_mapa_osm_prod.json'"
+            [style]="'assets/slepa_mapa_osm.json'"
             [zoom]="[6.4]"
             [center]="[15.5, 49.8]"
             (mapLoad)="mapLoaded($event)"
         >
         </mgl-map>
     </div>
-    <div #powerplantinfo>
-
+    <div>
+        <h2>{{powerplant_details.name}}</h2>
+        <p><b>Místo: {{powerplant_details.place}}</b></p>
+        <p>Roky v provozu: {{powerplant_details.years_in_service}}</p>
+        <p>Výkon: {{powerplant_details.power}}</p>
+        <p>Druh: {{powerplant_details.type}}</p>
+        <p>Vlastník: {{powerplant_details.owner}}</p>
+        <p>
+            {{ powerplant_details.description_short }}
+        </p>
+        <p>
+            {{ powerplant_details.description1 }}
+        </p>
+        <p>
+            {{ powerplant_details.description2 }}
+        </p>
+        <p>
+            {{ powerplant_details.description3 }}
+        </p>
+        <p>
+            {{ powerplant_details.description4 }}
+        </p>
+        <p>
+            {{ powerplant_details.description5 }}
+        </p>
+        <p>
+            {{ powerplant_details.description6 }}
+        </p>
+        <div>
+        <h5>Zdroje:</h5> 
+            <p>
+                {{powerplant_details.sources1}}<br>
+                {{powerplant_details.sources2}}
+            </p>
+        </div>
     </div>
 
 </div>
