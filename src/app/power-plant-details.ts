@@ -15,5 +15,5 @@ export class PowerPlantDetails {
     description4 = "";
     description5 = "";
     description6 = "";
-
+    coordinates: [number, number] = [0, 0];
 }

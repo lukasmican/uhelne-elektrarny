@@ -1,9 +1,206 @@
 .map-container {
     width: 100%;
-    height: 500px;
+    height: 100%;
 }
 
 mgl-map {
     height: 100%;
     width: 100%;
-  }
+}
+
+
+.page-container {
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.content-container {
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.sidenav-container {
+    padding: 20px;
+}
+
+
+
+.mat-icon {
+    vertical-align: top;
+}
+.menu-container {
+    width: 100%;
+}
+
+.menu-item {
+    padding: 0.5em 0 0.5em 1.5em;
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+a, a:hover, a:visited, a:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+
+.menu-headline {
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+}
+
+.detail-card-wrapper {
+    position: absolute;
+    width: 80%;
+    left: 10%;
+    top: 90vh;
+    height: 85vh;
+    z-index: 1000;
+}
+.detail-card {
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+    position: relative;
+}
+
+.detail-card-icons-wrapper {
+    width: 100%;
+    height: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 2000;
+    font-size: small;
+}
+
+.detail-card-icons-wrapper:hover, .info-card-icons-wrapper:hover {
+    cursor: pointer;
+}
+
+.detail-card-content-wrapper {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 1.5em;
+    padding: 0 0px;
+}
+
+.detail-card-content {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+@keyframes moredetail {
+    from {top: 90vh;}
+    to {top: 10vh;}
+}
+
+@keyframes lessdetail {
+    from {top: 10vh;}
+    to {top: 90vh;}
+}
+
+
+.detail-card-down {
+    animation-name: lessdetail;
+    animation-duration:  0.3s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+.detail-card-up {
+    animation-name: moredetail;
+    animation-duration:  0.3s;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+
+.no-selected-powerplant-info {
+    text-align: center;
+}
+
+.detail-text-wrapper {
+    flex-grow: 2;
+    max-width: 40em;
+    padding: 1em;
+    text-align: justify;
+
+}
+
+.images-wrapper {
+    flex-grow: 1;
+    top: 0;
+    width: 50%;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.top-toolbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info-button {
+
+}
+
+.drawer-button {
+    margin-right: 0.5em;
+}
+
+.info-card-enabled {
+    display: block;
+    visibility: visible;
+}
+.info-card-disabled {
+    display: none;
+    visibility: hidden;
+}
+
+.info-card {
+    width: 70vw;
+    height: 75vh;
+    position: fixed;
+    left: 15vw;
+    top: 10vh;
+    z-index: 3000;
+}
+
+.info-card-icons-wrapper {
+    position: absolute;
+    right: 1em;
+    top: 1em;
+    color: white;
+}
+
+.info-card-content-wrapper {
+    color: white;
+    padding-top: 1em;
+}

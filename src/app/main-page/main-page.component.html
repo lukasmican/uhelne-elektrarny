@@ -1,62 +1,132 @@
 <div class="main-page">
-    <h1>Uhelné elektrárny v ČR</h1>
-    <p>
-        Tady bude napsáno co to je, jak to funguje a k čemu to bylo.
-    </p>
-    <h2>Historický kontext</h2>
-    <p>
-        Tady bude nějaký přehled k historii.
-    </p>
-    <h2>Dnešní kontext</h2>
-    <p>
-        Tady bude shrnutí aktuálního stavu.
-    </p>
-    
-    <h2>Přehled uhelných elektráren v ČR</h2>
-    <div class="map-container">
-        <mgl-map #mapa
-            [style]="'assets/slepa_mapa_osm.json'"
-            [zoom]="[6.4]"
-            [center]="[15.5, 49.8]"
-            (mapLoad)="mapLoaded($event)"
-        >
-        </mgl-map>
-    </div>
-    <div>
-        <h2>{{powerplant_details.name}}</h2>
-        <p><b>Místo: {{powerplant_details.place}}</b></p>
-        <p>Roky v provozu: {{powerplant_details.years_in_service}}</p>
-        <p>Výkon: {{powerplant_details.power}}</p>
-        <p>Druh: {{powerplant_details.type}}</p>
-        <p>Vlastník: {{powerplant_details.owner}}</p>
-        <p>
-            {{ powerplant_details.description_short }}
-        </p>
-        <p>
-            {{ powerplant_details.description1 }}
-        </p>
-        <p>
-            {{ powerplant_details.description2 }}
-        </p>
-        <p>
-            {{ powerplant_details.description3 }}
-        </p>
-        <p>
-            {{ powerplant_details.description4 }}
-        </p>
-        <p>
-            {{ powerplant_details.description5 }}
-        </p>
-        <p>
-            {{ powerplant_details.description6 }}
-        </p>
-        <div>
-        <h5>Zdroje:</h5> 
-            <p>
-                {{powerplant_details.sources1}}<br>
-                {{powerplant_details.sources2}}
-            </p>
+    <mat-drawer-container class="page-container">
+        <mat-drawer #drawer class="sidenav-container" [mode]="!isMobile ? 'side' : 'over'">
+
+            <mat-list class="menu-container">
+                <div mat-subheader class="menu-headline">Elektrárny</div>
+
+                <mat-list-item *ngFor="let powerplant of powerplants">
+                    <div matListItemTitle (click)=" isMobile? drawer.close():0; mapShowPowerPlant(powerplant)">
+                        <a>
+                            <button mat-button class="menu-item">
+                                <span>{{ powerplant.name }}</span>
+                            </button>
+                        </a>
+                    </div>
+                </mat-list-item>
+
+            </mat-list>
+
+        </mat-drawer>
+
+        <div class="content-container">
+            <mat-toolbar class="top-toolbar">
+                <div class="top-toolbar"> 
+                    <button mat-icon-button color="secondary" aria-label="List of powerplants" (click)="drawer.toggle()"
+                        class="drawer-button">
+                        <mat-icon>menu</mat-icon>
+                    </button>
+
+                    <span>Uhelné elektrárny v ČR</span>
+                </div>
+
+                <div>
+                    <button mat-icon-button color="secondary" 
+                        class="info-button" (click)="infocardwrapper.classList.remove('info-card-disabled');infocardwrapper.classList.add('info-card-enabled');">
+                        <mat-icon>info</mat-icon>
+                    </button>
+                </div>
+
+            </mat-toolbar>
+
+
+
+            <div class="map-container">
+                <mgl-map #mapa [style]="'/assets/slepa_mapa_osm_prod.json'" [zoom]="[6.4]" [center]="[15.5, 49.8]"
+                    (mapLoad)="mapLoaded($event)">
+                </mgl-map>
+            </div>
+
+
+            <div #detailcard class="detail-card-wrapper">
+                <mat-card class="detail-card">
+                    <div class="detail-card-icons-wrapper" (click)="detailsToggleClicked()"
+                        *ngIf="powerplant_details != null">
+                        <div *ngIf="!detail_card_expanded">
+                            <mat-icon>expand_less</mat-icon> více <mat-icon>expand_less</mat-icon>
+                        </div>
+                        <div *ngIf="detail_card_expanded">
+                            <mat-icon>expand_more</mat-icon> méně <mat-icon>expand_more</mat-icon>
+                        </div>
+                    </div>
+                    <mat-card-content class="detail-card-content-wrapper">
+                        <div *ngIf="powerplant_details != null" class="detail-card-content">
+                            <div class="detail-text-wrapper">
+                                <h2>{{powerplant_details.name}}</h2>
+                                <p><b>Místo: {{powerplant_details.place}}</b></p>
+                                <p>Roky v provozu: {{powerplant_details.years_in_service}}</p>
+                                <p>Výkon: {{powerplant_details.power}}</p>
+                                <p>Druh: {{powerplant_details.type}}</p>
+                                <p>Vlastník: {{powerplant_details.owner}}</p>
+                                <p>
+                                    {{ powerplant_details.description_short }}
+                                </p>
+                                <p>
+                                    {{ powerplant_details.description1 }}
+                                </p>
+                                <p>
+                                    {{ powerplant_details.description2 }}
+                                </p>
+                                <p>
+                                    {{ powerplant_details.description3 }}
+                                </p>
+                                <p>
+                                    {{ powerplant_details.description4 }}
+                                </p>
+                                <p>
+                                    {{ powerplant_details.description5 }}
+                                </p>
+                                <p>
+                                    {{ powerplant_details.description6 }}
+                                </p>
+                                <div>
+                                    <h5>Zdroje:</h5>
+                                    <p>
+                                        {{powerplant_details.sources1}}<br>
+                                        {{powerplant_details.sources2}}
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="images-wrapper">
+                                <img src="/assets/img/ceske_budejovice1.jpg" style="width: 100%;"> 
+                            </div>
+                        </div>
+                        <div *ngIf="powerplant_details == null" class="no-selected-powerplant-info">
+
+                            Vyberte elektrárnu z mapy nebo ze seznamu
+                        </div>
+                    </mat-card-content>
+                </mat-card>
+            </div>
         </div>
+
+    </mat-drawer-container>
+
+
+    <div #infocardwrapper class="info-card-enabled">
+        <mat-card  class="info-card">
+            <div class="info-card-icons-wrapper" (click)="infocardwrapper.classList.remove('info-card-enabled');infocardwrapper.classList.add('info-card-disabled');">
+                    <mat-icon>close</mat-icon>
+            </div>
+            <mat-card-content class="info-card-content-wrapper">
+                <h2>Přehled uhelných elektráren v ČR</h2>
+                Semestrální projekt HVT<br><br>
+
+                tady bude asi nějaký popis a komentář k celému projektu
+            </mat-card-content>
+        </mat-card>
     </div>
+
+
 
 </div>
