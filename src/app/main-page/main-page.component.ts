@@ -91,6 +91,9 @@ export class MainPageComponent {
     this.changeDetector.detectChanges();
   }
 
+  mapShowPowerPlantByID(powerplant_id: number) {
+    this.mapShowPowerPlant(this.powerplants[powerplant_id]);
+  }
   mapShowPowerPlant(powerplant: PowerPlantDetails) {
     this.powerplant_details = powerplant;
     this.mapShowPopup(powerplant);

@@ -19,7 +19,8 @@
                 "description3": "Rekonstrukce elektr\u00e1rny byla dokon\u010dena v\u00a0roce 1931 vybudov\u00e1n\u00edm \u00fapravny vod s\u00a0laborato\u0159\u00ed, instalac\u00ed dal\u0161\u00edho strmotrubn\u00e9ho kotle, roz\u0161\u00ed\u0159en\u00edm vel\u00edna a rozvodny, instalac\u00ed nov\u00e9ho sp\u00ednac\u00edho za\u0159\u00edzen\u00ed a stavbou druh\u00e9ho a t\u0159et\u00edho kom\u00edna. Roku 1936 byly p\u0159istav\u011bny kancel\u00e1\u0159e a d\u00edlny. V\u00a0roce 1936 byla elektr\u00e1rna vybavena t\u0159emi turbogener\u00e1tory o celkov\u00e9m v\u00fdkonu 18\u00a0900 kW, dev\u00edti velk\u00fdmi transform\u00e1tory, p\u011bti strmotrubn\u00fdmi a dv\u011bma star\u00fdmi kotli.",
                 "description4": "Po v\u00e1lce p\u0159evzala elektr\u00e1rnu spole\u010dnost Mostecko-sokolovsk\u00e9 elektr\u00e1rny, pozd\u011bji \u010cEZ. V\u00fdroba elekt\u0159iny prob\u00edhala v\u00a0sokolovsk\u00e9 elektr\u00e1rn\u011b a\u017e do roku 1968.",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -47,7 +48,8 @@
                 "description3": "Nov\u00e1 za\u0159\u00edzen\u00ed 1925-1926. V roce 1925 byla z\u0159\u00edzena vlastn\u00ed po\u010d\u00edta\u010dov\u00e1 stanice a elektr\u00e1rna st\u00e1la p\u0159ed dal\u0161\u00edmi v\u00fdznamn\u00fdmi zm\u011bnami p\u0159i roz\u0161\u00ed\u0159en\u00ed kapacity v\u00fdroby, kter\u00e9 nebylo mo\u017eno d\u00e1le oddalovat. Roku 1926 vzrostl v\u00fdkon dvou star\u0161\u00edch parn\u00edch stroj\u016f 2x300 PS (HP) provedenou rekonstrukc\u00ed na 2 x 500",
                 "description4": "U kotl\u016f \u0160koda a dal\u0161\u00edch zlep\u0161en\u00edch bylo mo\u017eno udr\u017eet norm\u00e1ln\u00ed v\u00fdkon 1700 kW.",
                 "description5": "Proto\u017ee elektr\u00e1rna v Mari\u00e1nsk\u00fdch L\u00e1zn\u00edch si uchov\u00e1vala od po\u010d\u00e1tku s\u00ed\u0165ovou frekvenci 43 Hertz\u016f, muselo doj\u00edt ke zv\u00fd\u0161en\u00ed n\u00e1klad\u016f v d\u016fsledku pot\u0159ebn\u00e9ho m\u011bni\u010de frekvence p\u0159i odb\u011bru proudu nebo p\u0159ed\u00e1v\u00e1n\u00ed proudu do d\u00e1lkov\u00e9ho veden\u00ed. Proto\u017ee p\u0159i 43 Hz nebylo mo\u017eno dos\u00e1hnout normovan\u00fdch ot\u00e1\u010dek motor\u016f nap\u0159. 2880 nebo 1440, nebo\u0165 le\u017eely o 14 % n\u00ed\u017ee, bylo pou\u017e\u00edv\u00e1n\u00ed stroj\u016f a za\u0159\u00edzen\u00ed, poh\u00e1n\u011bn\u00fdch pevn\u011b p\u0159ipojen\u00fdmi motory nemo\u017en\u00e9. Bylo proto nyn\u00ed nutno v\u0161ude pou\u017e\u00edvat mezipohonov\u00fdch \u00fastroj\u00ed - \u0159emeny, p\u0159evodovky.",
-                "description6": "\nM\u011bstsk\u00e1 elektr\u00e1rna byla v provozu a\u017e do roku 1972, kdy byla zru\u0161ena, a v roce 1973 byla uvedena do provozu M\u011bstsk\u00e1 tepl\u00e1rna, pou\u017e\u00edvaj\u00edc\u00ed jako paliva mazutu o v\u00fdkonu 25 tun p\u00e1ry za hodinu. Za\u010dalo pokl\u00e1d\u00e1n\u00ed parovodu a budov\u00e1n\u00ed v\u00fdm\u011bn\u00edkov\u00fdch stanic."
+                "description6": "\nM\u011bstsk\u00e1 elektr\u00e1rna byla v provozu a\u017e do roku 1972, kdy byla zru\u0161ena, a v roce 1973 byla uvedena do provozu M\u011bstsk\u00e1 tepl\u00e1rna, pou\u017e\u00edvaj\u00edc\u00ed jako paliva mazutu o v\u00fdkonu 25 tun p\u00e1ry za hodinu. Za\u010dalo pokl\u00e1d\u00e1n\u00ed parovodu a budov\u00e1n\u00ed v\u00fdm\u011bn\u00edkov\u00fdch stanic.",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -75,7 +77,8 @@
                 "description3": "V\u00fdroba elekt\u0159iny v elektr\u00e1rn\u011b skon\u010dila v roce 1945, od pades\u00e1t\u00fdch let minul\u00e9ho stolet\u00ed elekt\u0159inu dod\u00e1v\u00e1 do Kraslic elektr\u00e1rna Tisov\u00e1 u Sokolova. V roce 1952 byl zbo\u0159en kom\u00edn elektr\u00e1rny. Z elektr\u00e1rny se dochovala pouze v roce 1995 rekonstruovan\u00e1 transformovna a spr\u00e1vn\u00ed objekt \u010dp. 636.",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -103,12 +106,42 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
                     13.546553333333334,
                     50.572028333333336
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Opava",
+                "place": "Opava",
+                "years_in_service": "1904-19XX",
+                "power": "neuvedeno",
+                "sources1": "https://www.pamatkovykatalog.cz/mestska-parni-elektrarna-19561977",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "",
+                "description_short": "Parn\u00ed elektr\u00e1rna se dv\u011bma parn\u00edmi stroji a kotli Babcock-Wilcox z ciheln\u00e9ho zdiva s \u017eeleznou st\u0159e\u0161n\u00ed konstrukc\u00ed postavena stavitelem Aloisem Geldnerem podle projektu architekta Laubeho z firmy AEG v roce 1904. P\u016fvodn\u00ed za\u0159\u00edzen\u00ed nedochov\u00e1no.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    17.893948333333334,
+                    49.94394805555555
                 ],
                 "type": "Point"
             }
@@ -131,7 +164,8 @@
                 "description3": "Z\u00a0elektr\u00e1rny se stala sp\u00ed\u0161e tepl\u00e1rna (z\u00e1sobovala MAPE Mydlovary a m\u011bsto \u010cesk\u00e9 Bud\u011bjovice) a z\u00a0toho d\u016fvodu byly odstaveny postupn\u011b TG 2 (1976), TG 3 (1984), posledn\u00ed TG 4 o\u00a0v\u00fdkonu 6\u00a0MW byl odstaven v\u00a0roce 1998, \u010d\u00edm\u017e zanikla v\u00a0tomto m\u00edst\u011b v\u00fdroba elekt\u0159iny nep\u0159etr\u017eit\u011b zde trvaj\u00edc\u00ed od roku 1922.",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -159,7 +193,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -173,11 +208,69 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "name": "Mari\u00e1nsk\u00e9 Hory",
+                "place": "Ign\u00e1c (j\u00e1ma)",
+                "years_in_service": "1913-ted",
+                "power": "12kW, 1922 - 24,8kW, 1927 - 42kW, 2006 - 14,08MW",
+                "sources1": "https://cs.wikipedia.org/wiki/Tepl%C3%A1rna_P%C5%99%C3%ADvoz",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "Veolia Energie \u010cR",
+                "description_short": "V roce 1913 byla uvedena do provozu elektrick\u00e1 \u00fast\u0159edna (elektr\u00e1rna), kter\u00e1 nahradila p\u0159edev\u0161\u00edm elektr\u00e1rnu koksovny Franti\u0161ek z roku 1909, a byla ur\u010den\u00e1 pro z\u00e1sobov\u00e1n\u00ed elektrickou energi\u00ed v\u0161ech z\u00e1vod\u016f SDCF.\n\nV 50. letech 20. stolet\u00ed byla Elektr\u00e1rna Franti\u0161ek za\u010dlen\u011bna do Ostravsko\u2013karvinsk\u00fdch elektr\u00e1ren (OKE) v pod\u0159\u00edzen\u00ed \u00dast\u0159edn\u00ed spr\u00e1vy energetiky.\n\nV 90. letech se m\u011bn\u00ed na Tepl\u00e1rnu P\u0159\u00edvoz (TPV). Od roku 1998 se st\u00e1v\u00e1 nov\u00fdm majitelem spole\u010dnost Dalkia.\n\nV roce 2013 Tepl\u00e1rna P\u0159\u00edvoz zabezpe\u010dovala dod\u00e1vku tepla pro 13,5 tis. dom\u00e1cnost\u00ed v Ostrav\u011b, a d\u00e1le pro Koksovnu Svoboda, M\u011bstskou nemocnici Ostrava Fifejdy, Novou Karolinu a Pivovar Ostrava.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    18.274919444444443,
+                    49.86114444444445
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Zb\u016fch",
+                "place": "d\u016fl, sudety",
+                "years_in_service": "1914-1966",
+                "power": "2,75MW, 16,7MW",
+                "sources1": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi-y-Gu9vWCAxUKhP0HHWbBBWIQFnoECA8QAQ&url=https%3A%2F%2Fwww.zbuch.cz%2Fe_download.php%3Ffile%3Ddata%2Feditor%2F328cs_5.pdf%26original%3DZb%25C5%25AFch%2520od%2520prav%25C4%259Bku%2520k%2520sou%25C4%258Dasnosti%2520-%2520text%2520knihy%2520z%2520roku%25202003.pdf&usg=AOvVaw0dUvjKvphzgm1JIP4_1Vz2&opi=89978449",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "Elektr\u00e1rna Zb\u016fch",
+                "description_short": "P\u016fvodn\u00ed elektrocentr\u00e1la byla v prostor\u00e1ch vysokotlak\u00e9ho kompresoru a hlavn\u00edch ventil\u00e1tor\u016f. M\u011bla v\u00fdkon 2750 kW. V obdob\u00ed po I. sv\u011btov\u00e9 v\u00e1lce byla v are\u00e1lu dolu vystav\u011bna nov\u00e1 elektrocentr\u00e1la, dokon\u010den\u00e1 p\u0159ed polovinou 20. let 20. stolet\u00ed. Byla vybavena t\u0159emi turbosoustroj\u00edmi o v\u00fdkonu 16,7 MW, kter\u00e9 dodaly firmy \u0160koda, \u010cKD a AEG\u2013BB Union.",
+                "description1": "Pozd\u011bji vznikl samostatn\u00fd n\u00e1rodn\u00ed podnik Elektr\u00e1rna Zb\u016fch s pobo\u010dn\u00fdmi z\u00e1vody v N\u00fd\u0159anech a Hol\u00fd\u0161ov\u011b a vodn\u00ed elektr\u00e1rny na \u0161umavsk\u00e9 Vyd\u0159e, na Radbuze ve Stod\u011b a Chot\u011b\u0161ov\u011b. Koncem 50. let a na po\u010d\u00e1tku 60. let jsou postupn\u011b v\u0161echny elektr\u00e1rny, krom\u011b Zb\u016fchu a na Vyd\u0159e, odstaveny a elektr\u00e1rna Zb\u016fch se st\u00e1v\u00e1 na n\u011bkolik posledn\u00edch let provozu z\u00e1vodem podniku Z\u00e1pado\u010desk\u00e9 elektr\u00e1rny. V roce 1966 je \u010dinnost Elektr\u00e1rny Zb\u016fch zastavena, kotelna p\u0159ed\u00e1na zp\u011bt dolu DOM Zb\u016fch ZUD a provozov\u00e1na jako tepl\u00e1rna.",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.2088669,
+                    49.6683436
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
                 "name": "Such\u00e1",
                 "place": "Obec Such\u00e1 u Polsk\u00fdch hranic",
                 "years_in_service": "1916-????",
                 "power": "???",
-                "sources1": "Nothing",
+                "sources1": "MIKE\u0160, Jan.\u00a0Elektrifikace \u010ceskoslovenska do roku 1938. Online, Diserta\u010dn\u00ed pr\u00e1ce, vedouc\u00ed Efmertov\u00e1, Marcela. Praha: Univerzita Karlova, Filozofick\u00e1 fakulta, 2016. Dostupn\u00e9 z:\u00a0https://dspace.cuni.cz/handle/20.500.11956/83800. [cit. 2023-11-18].",
                 "sources2": "",
                 "type": "uheln\u00e1",
                 "owner": "???",
@@ -187,12 +280,187 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
                     18.475749999999998,
                     49.80025
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Komo\u0159any I",
+                "place": "Most-Komo\u0159any, ul. Tepl\u00e1rensk\u00e1",
+                "years_in_service": "1951-sou\u010dasnost",
+                "power": "96 MW",
+                "sources1": "https://www.ue.cz/historie-a-soucasnost",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "p\u016fvodn\u011b Mosteck\u00e9-Sokolovsk\u00e9 elektr\u00e1rny n.p., dnes United Energy a.s.",
+                "description_short": "Elektr\u00e1rna Komo\u0159any se za\u010dala stav\u011bt je\u0161t\u011b b\u011bhem druh\u00e9 sv\u011btov\u00e9 v\u00e1lky v roce 1943 a stavba pak pokra\u010dovala v r\u00e1mci n\u00e1rodn\u00edho podniku Mostecko-sokolovsk\u00fdch elektr\u00e1ren i po roce 1945. Prvn\u00ed kotel a turbogener\u00e1tor byly uvedeny do provozu v roce 1951. V pades\u00e1t\u00fdch letech bylo uvedeno do provozu p\u011bt kotl\u016f o v\u00fdkonu 90 tun p\u00e1ry za hodinu a t\u0159i kondenza\u010dn\u00ed turbosoustroj\u00ed po 32 MW. Od po\u010d\u00e1tku byla elektr\u00e1rna z\u00e1sobov\u00e1na hn\u011bd\u00fdm uhl\u00edm p\u0159\u00edmo ze sousedn\u00ed \u00fapravny.\n\n",
+                "description1": "V roce 1963 byly provedeny investice pro zm\u011bnu provozu na tepl\u00e1rensk\u00fd a v 1964 za\u010dala fungovat jako tepl\u00e1rna.",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.575166666666666,
+                    50.52280555555556
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Komo\u0159any II",
+                "place": "Most-Komo\u0159any, ul. Tepl\u00e1rensk\u00e1",
+                "years_in_service": "1958-sou\u010dastnost",
+                "power": "116 MW",
+                "sources1": "https://www.ue.cz/historie-a-soucasnost",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "p\u016fvodn\u011b Mosteck\u00e9-Sokolovsk\u00e9 elektr\u00e1rny n.p., dnes United Energy a.s.",
+                "description_short": "Prvn\u00ed kotel \u010d. 6 byl zprovozn\u011bn v l\u00e9t\u011b roku 1958, posledn\u00ed s po\u0159adov\u00fdm \u010d\u00edslem sedm o rok pozd\u011bji. Elektr\u00e1rna Komo\u0159any II. m\u011bla p\u011bt ro\u0161tov\u00fdch kotl\u016f o v\u00fdkonu 125 tun p\u00e1ry, t\u0159i kondenza\u010dn\u00ed turbogener\u00e1tory po 32 MW a jedno kondenza\u010dn\u00ed odb\u011brov\u00e9 turbosoustroj\u00ed o v\u00fdkonu 20 MW.",
+                "description1": "Stejn\u011b jako u elektr\u00e1rny Komo\u0159any I byly v roce 1963 provedeny investice pro zm\u011bnu provozu na tepl\u00e1rensk\u00fd a v 1964 za\u010dala fungovat jako tepl\u00e1rna.",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.575166666666666,
+                    50.52280555555556
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Hodon\u00edn",
+                "place": "Hodon\u00edn, ul. elektr\u00e1rensk\u00e1",
+                "years_in_service": "1951-sou\u010dasnost",
+                "power": "205 MW",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarna-hodonin-58184",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "\u010cEZ a.s.",
+                "description_short": "Elektr\u00e1rna Hodon\u00edn pat\u0159\u00ed mezi elektr\u00e1rny \u010cEZ, kter\u00e9 aktu\u00e1ln\u011b spaluj\u00ed krom\u011b uhl\u00ed i\u00a0biomasu. Byla postavena ve dvou etap\u00e1ch v\u00a0letech 1951-1957. V\u00fdb\u011br lokality pro jej\u00ed v\u00fdstavbu vych\u00e1zel z\u00a0m\u00edstn\u00edch podm\u00ednek, bl\u00edzkosti lignitov\u00e9ho dolu a\u00a0\u0159eky Moravy. S\u00a0vyu\u017eit\u00edm lignitu s\u00a045% obsahem vody pro pr\u00e1\u0161kov\u00e9 spalov\u00e1n\u00ed nebyly v\u00a050. letech \u017e\u00e1dn\u00e9 zku\u0161enosti, proto soub\u011b\u017en\u011b se zpracov\u00e1n\u00edm projektov\u00e9 dokumentace elektr\u00e1rny prob\u00edhaly i\u00a0zkou\u0161ky s\u00a0p\u0159edsou\u0161en\u00edm a\u00a0mlet\u00edm lignitu. K\u00a0datu uveden\u00ed elektr\u00e1rny do provozu se poda\u0159ilo technick\u00e9 probl\u00e9my vy\u0159e\u0161it, i\u00a0kdy\u017e v\u00a0n\u011bkter\u00fdch obdob\u00edch se zde spalovalo sokolovsk\u00e9 hn\u011bd\u00e9 uhl\u00ed.",
+                "description1": "P\u016fvodn\u011b bylo v\u00a0elektr\u00e1rn\u011b instalov\u00e1no osm pr\u00e1\u0161kov\u00fdch kotl\u016f, ka\u017ed\u00fd o\u00a0v\u00fdkonu 125 tun p\u00e1ry/hod. Vyrobeny byly v\u00a0ZVU Hradec Kr\u00e1lov\u00e9 a\u00a0uspo\u0159\u00e1d\u00e1ny do bloku, tak\u017ee v\u00a0roce 1954 za\u010dal pracovat blok \u010dty\u0159 kotl\u016f se dv\u011bma 50 MW turb\u00ednami. Tyto turb\u00edny ze \u0160kody Plze\u0148 byly prvn\u00ed 50 MW turb\u00edny instalovan\u00e9 v\u00a0\u010ceskoslovensku. V\u00a0roce 1957 byly spu\u0161t\u011bny do provozu dal\u0161\u00ed dva kotle s\u00a050 MW turb\u00ednou a\u00a0v\u00a0roce 1958 posledn\u00ed dva kotle s\u00a0turb\u00ednami 55 MW. Se sv\u00fdm v\u00fdkonem 205 MW byla v\u00a0t\u00e9 dob\u011b Elektr\u00e1rna Hodon\u00edn nejv\u011bt\u0161\u00edm zdrojem elekt\u0159iny v\u00a0\u010ceskoslovensku. V\u00a0roce 1966 se celkov\u00fd v\u00fdkon elektr\u00e1rny zv\u00fd\u0161il na 210 MW rekonstrukc\u00ed dvou 50 a\u00a055 MW turbogener\u00e1tor\u016f na 55 MW. V\u0161echny zdej\u0161\u00ed turb\u00edny jsou kondenza\u010dn\u00ed, s\u00a0pr\u016fto\u010dn\u00fdm chlazen\u00edm. \u00dapravou pro\u0161ly tak\u00e9 kotle, jejich\u017e v\u00fdkon se zv\u00fd\u0161il ze 125 tun p\u00e1ry/hod na 135 tun p\u00e1ry/hod.",
+                "description2": "Ji\u017e v roce 1963 za\u010dala elektr\u00e1rna Hodon\u00edn ztr\u00e1cet na v\u00fdznamu s v\u00fdstavbou nov\u00fdch 100 a 200 MW blok\u016f a p\u0159ech\u00e1z\u00ed na tepl\u00e1rensk\u00fd provoz.",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    17.119944444444446,
+                    48.84572222222222
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Tisov\u00e1 I",
+                "place": "Sokolov, Tisov\u00e1 2",
+                "years_in_service": "1958-sou\u010dastnost",
+                "power": "200 MW",
+                "sources1": "https://www.sokolov-vychod.cz/elektrarna-tisova",
+                "sources2": "",
+                "type": "hn\u011bdouheln\u00e1",
+                "owner": "\u010cEZ a.s.",
+                "description_short": "Elektr\u00e1rnu od jej\u00edho po\u010d\u00e1tku tvo\u0159ila \u010dty\u0159i turbosoustroj\u00ed o v\u00fdkonu 50 MW. V roce 1964 bylo zde a v elektr\u00e1rn\u011b Tisov\u00e1 II vyrobeno skoro 10 % ve\u0161ker\u00e9 elekt\u0159iny v \u010ceskoslovensku a jednalo se o nejv\u011bt\u0161\u00ed elektr\u00e1rensk\u00fd komplex v t\u00e9to zemi. Pot\u00e9 mezi lety 1983 a 1987 do\u0161lo k rozs\u00e1hl\u00e9 rekonstrukci, kter\u00e1 vedla k tomu, \u017ee se z elektr\u00e1rny stala kogenera\u010dn\u00ed v\u00fdrobna elekt\u0159iny a tepla.  V \u010dervnu roku 1998 do\u0161lo k odstaven\u00ed jednoho z blok\u016f. V kogenera\u010dn\u00edm re\u017eimu funguje v\u00fdrobna i dnes.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    12.6073738,
+                    50.1500848
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Tisov\u00e1 II",
+                "place": "Sokolov, Tisov\u00e1 2",
+                "years_in_service": "1963-sou\u010dastnost",
+                "power": "330 MW, 110 MW (1991)",
+                "sources1": "https://www.sokolov-vychod.cz/elektrarna-tisova",
+                "sources2": "https://www.cez.cz/edee/content/file/static/encyklopedie/vykladovy-slovnik-energetiky/hesla/uh_el_tis.html",
+                "type": "hn\u011bdouheln\u00e1",
+                "owner": "\u010cEZ a.s.",
+                "description_short": "Elektr\u00e1rna byla dostav\u011bnu roku 1963 a byly zde poprv\u00e9 v \u010ceskoslovensku pou\u017eity bloky 110 MW. N\u00e1sleduj\u00edc\u00ed rok vyrobily elektr\u00e1rny Tisov\u00e1 I a Tisov\u00e1 II skoro 10 % elekt\u0159iny v \u010ceskoslovensku.",
+                "description1": "Do elektr\u00e1rny bylo d\u00e1le investov\u00e1no v r\u00e1mci ekologick\u00fdch program\u016f. V roce 1992 byla provedena instalace elektrick\u00e9ho odlu\u010dova\u010de a v n\u00e1sleduj\u00edc\u00edch 5 letech i odsi\u0159ovac\u00edch jednotek. Z\u00e1rove\u0148 zde byl nahrazen\u00ed p\u016fvodn\u00edch kotl\u016f (o parn\u00edm v\u00fdkonu 125 t/h) za kotle s parn\u00edm v\u00fdkonem 350 t/h, co\u017e byla prvn\u00ed instalace takov\u00fdchto kotl\u016f na \u010desk\u00e9m \u00fazem\u00ed. ",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    12.6073738,
+                    50.1500848
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Po\u010derady I",
+                "place": "Obec Po\u010derady",
+                "years_in_service": "1970-sou\u010dastnost",
+                "power": "400 MW, 800 MW (1971), 1200 MW (1978), 800 MW (1994)",
+                "sources1": "https://www.svetenergie.cz/cz/energetika-zblizka/uhelne-elektrarny/uhelne-elektrarny-cez/elektrarna-pocerady",
+                "sources2": "",
+                "type": "hn\u011bdouheln\u00e1",
+                "owner": "\u010cEZ a.s.",
+                "description_short": "Podle projektu, kter\u00fd se za\u010dal p\u0159ipravovat v \u0159\u00edjnu 1959, byla Elektr\u00e1rna Po\u010derady postavena jako klasick\u00e1 kondenza\u010dn\u00ed elektr\u00e1rna s \u0161esti 200MW bloky. Postupn\u011b se uv\u00e1d\u011bly do provozu v letech 1970 a\u017e 1977.",
+                "description1": "V r\u00e1mci \u00fatlumov\u00e9ho programu uheln\u00fdch elektr\u00e1ren byl k 1. 1. 1994 odstaven z provozu v\u00fdrobn\u00ed blok \u010d. 1. Ostatn\u00ed bloky pro\u0161ly mezi lety 1990 a\u017e 2000 rozs\u00e1hl\u00fdm moderniza\u010dn\u00edm a ekologick\u00fdm programem. Z\u00e1kladn\u00ed technick\u00e1 koncepce v\u00fdrobn\u00edch blok\u016f je stejn\u00e1 a v\u0161echny bloky jsou od konce roku 2001 \u0159\u00edzen\u00e9 z jedn\u00e9 spole\u010dn\u00e9 technologick\u00e9 dozorny. ",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.6808653,
+                    50.4275549
                 ],
                 "type": "Point"
             }
@@ -209,13 +477,14 @@
                 "sources2": "",
                 "type": "uheln\u00e1",
                 "owner": "Plze\u0148sk\u00fd Prazdroj",
-                "description_short": "\u201eElektr\u00e1rna byla uvedena do provozu ji\u017e na p\u0159elomu let 1907/1908 a jej\u00ed energie nap\u00e1jela 134 motor\u016f, 120 obloukov\u00fdch lamp a zhruba 6 200 \u017e\u00e1rovek. Mimo vlastn\u00ed pot\u0159ebu pivovaru dod\u00e1vala elektr\u00e1rna proud tak\u00e9 do obc\u00ed Doubravka, \u00dajezd, Hr\u00e1dek a kr\u00e1tce tak\u00e9 na Letnou",
+                "description_short": "Elektr\u00e1rna byla uvedena do provozu ji\u017e na p\u0159elomu let 1907/1908 a jej\u00ed energie nap\u00e1jela 134 motor\u016f, 120 obloukov\u00fdch lamp a zhruba 6 200 \u017e\u00e1rovek. Mimo vlastn\u00ed pot\u0159ebu pivovaru dod\u00e1vala elektr\u00e1rna proud tak\u00e9 do obc\u00ed Doubravka, \u00dajezd, Hr\u00e1dek a kr\u00e1tce tak\u00e9 na Letnou",
                 "description1": "Elektr\u00e1rna slou\u017eila i\u00a0p\u0159es zna\u010dn\u00e1 v\u00e1le\u010dn\u00e1 poni\u010den\u00ed a\u00a0\u0159adu rekonstrukc\u00ed a\u017e do\u00a0roku 1986, kdy byl cel\u00fd pivovarsk\u00fd z\u00e1vod napojen na plze\u0148skou tepl\u00e1rnu.",
                 "description2": "",
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -229,12 +498,389 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "name": "P\u0159espoln\u00ed elektr\u00e1rna Franze Haniky",
+                "place": "Plan\u00e1 u Mari\u00e1nsk\u00fdch L\u00e1zn\u00ed",
+                "years_in_service": "1912-???",
+                "power": "0,373 MW",
+                "sources1": "https://pamatkovykatalog.cz/prespolni-elektrarna-franze-haniky-16008048",
+                "sources2": "MIKE\u0160, Jan.\u00a0Elektrifikace \u010ceskoslovenska do roku 1938. Online, Diserta\u010dn\u00ed pr\u00e1ce, vedouc\u00ed Efmertov\u00e1, Marcela. Praha: Univerzita Karlova, Filozofick\u00e1 fakulta, 2016. Dostupn\u00e9 z:\u00a0https://dspace.cuni.cz/handle/20.500.11956/83800. [cit. 2023-11-18].",
+                "type": "uheln\u00e1",
+                "owner": "rodina Hanik\u016f -> n.p. Z\u00e1pado\u010desk\u00e9 Elektr\u00e1rny",
+                "description_short": "P\u0159espoln\u00ed elektr\u00e1rna vybudovan\u00e1 p\u0159estavbou z b\u00fdval\u00e9ho ml\u00fdna rodiny Hanik\u016f v Plan\u00e9 v roce 1912. K elektr\u00e1rn\u011b p\u0159idru\u017eena drobn\u00e1 elektrotechnick\u00e1 v\u00fdroba. Elektr\u00e1rna plan\u00e9 z\u00e1sobovala na pades\u00e1t okoln\u00edch obc\u00ed.\u00a0",
+                "description1": "Elektr\u00e1rna krom\u011b jedn\u00e9 parn\u00ed turb\u00edny o v\u00fdkonu 500 HP obsahovala tak\u00e9 dv\u011b vodn\u00ed turb\u00edny o v\u00fdkonu 110 HP a elektrickou rozvodnu, kter\u00e1 rozv\u00e1d\u011bla elekt\u0159inu pomoc\u00ed veden\u00ed na 5 kV.",
+                "description2": "Po druh\u00e9 sv\u011btov\u00e9 v\u00e1lce byla elektr\u00e1rna zkonfiskov\u00e1na, pozd\u011bji se z n\u00ed stala u\u017e jen rozvodna a pot\u00e9 sklad a d\u00edlny.",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    12.739555555555555,
+                    49.86216666666667
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Trmice",
+                "place": "Trmice",
+                "years_in_service": "1916-1959",
+                "power": "6 MW, roz\u0161\u00ed\u0159en\u00ed 59,8 MW",
+                "sources1": "cez",
+                "sources2": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/teplarna-trmice-58160",
+                "type": "uheln\u00e1",
+                "owner": "Nordb\u00f6hmische Elektrizit\u00e4tswerke",
+                "description_short": "Na popud nedostate\u010dn\u00e9ho elektrick\u00e9ho v\u00fdkonu v severn\u00edch \u010cech\u00e1ch byla v roce 1914 zah\u00e1jena v\u00fdstavba Trmick\u00e9 elektr\u00e1rny spole\u010dnost\u00ed Nordb\u00f6hmische Elektrizit\u00e4tswerke. Stavba byla dokon\u010dena o dva roky pozd\u011bji v roce 1916. Do provozu se tak uvedly \u010dty\u0159i kotle spolu s turbosoustroj\u00edm o v\u00fdkonu 6 MW. Po dal\u0161\u00edch investic\u00edch do elektr\u00e1rny do\u0161lo k nav\u00fd\u0161en\u00ed v\u00fdkonu a v roce 1939 \u010dinil instalovan\u00fd v\u00fdkon u\u017e  59,8 MW, co\u017e p\u0159edstavovalo p\u0159ibli\u017en\u011b 7 % v\u00fdkonu v cel\u00fdch \u010cech\u00e1ch. V roce 1959 za\u010dala rekonstrukce elektr\u00e1rny v tepl\u00e1rensk\u00fd celek. Rekonstrukce byla dokon\u010dena v roce 1974.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.98562,
+                    50.6457680302681
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Oslavany",
+                "place": "Oslavany",
+                "years_in_service": "1913-1993",
+                "power": "2x3,4 MW po uveden\u00ed do provozu, maxim\u00e1ln\u011b a\u017e 115 MW po modernizac\u00edch a navy\u0161ov\u00e1n\u00ed",
+                "sources1": "http://www.rosicko-oslavansko.cz/13-historie/32-elektrarna-oslavany/",
+                "sources2": "",
+                "type": "\u010derno uheln\u00e1",
+                "owner": "OELAG",
+                "description_short": "Elektr\u00e1rna v Oslavanech byla ofici\u00e1ln\u011b zah\u00e1jena 1. dubna 1913. Elektrick\u00fd proud se pomoc\u00ed dvojit\u00e9ho veden\u00ed o 44 tis\u00edc volt\u016f transportoval do \u010cernovic a n\u00e1sledn\u011b k odb\u011bratel\u016fm v Brn\u011b a okol\u00ed. Modernizace z p\u016fvodn\u00edho v\u00fdkonu 2x3,4 MW stimulovala velk\u00e1 popt\u00e1vka po elektrick\u00e9 energii na za\u010d\u00e1tku prvn\u00ed sv\u011btov\u00e9 v\u00e1lky. Popt\u00e1vka nar\u016fstala i nad\u00e1le po v\u00e1le\u010dn\u00e9m obdob\u00ed a tak po dal\u0161\u00edm navy\u0161ov\u00e1n\u00ed \u010dinil instalovan\u00fd v\u00fdkon v roce 1929 ji\u017e 49,8 MW. Po rozhodnut\u00ed rady spr\u00e1vy Z\u00e1padomoravsk\u00fdch elektr\u00e1ren byla na m\u00edst\u011b star\u00e9 kotelny postavena v roce 1941 kotelna nov\u00e1. Modernizac\u00ed p\u0159o\u0161la i strojovna, ve kter\u00e9 byla v rozmez\u00ed let 1942-1950 uvedena soustroj\u00ed o instalovan\u00e9m v\u00fdkonu 63 MW. Posl\u00e9ze byl v roce 1964 postaven nov\u00fd modern\u00ed blok o v\u00fdkonu 50 MW. Maxim\u00e1lni v\u00fdkon elektr\u00e1rny tak vzrostl na 115 MW. Provoz elektr\u00e1rny byl ukon\u010den v roce 1993 kv\u016fli p\u0159eru\u0161en\u00ed dod\u00e1vky uhl\u00ed z rosicko-oslavansk\u00e9ho rev\u00edru.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    16.343757,
+                    49.1205036442399
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Erv\u011bnice I",
+                "place": "Komo\u0159any u Mostu",
+                "years_in_service": "1926-1965",
+                "power": "45 MW, pozd\u011bji 70 MW",
+                "sources1": "https://cs.wikipedia.org/wiki/Zanikl%C3%A9_elektr%C3%A1rny_v_%C4%8Cesku#Elektr%C3%A1rna_Erv%C4%9Bnice",
+                "sources2": "\u0160EMBERA, Franti\u0161ek.\u00a0Erv\u011bnick\u00e1 elektr\u00e1rna. Praha: Franti\u0161ek \u0160embera, 1926",
+                "type": "uheln\u00e1-hn\u011bd\u00e9",
+                "owner": "\u00dast\u0159edn\u00ed elektr\u00e1rny a.s. v Praze",
+                "description_short": "Stimulem pro v\u00fdstavbu elektr\u00e1rny Erv\u011bnice byla rostouc\u00ed popt\u00e1vka po elektrick\u00e9 energii ve dvac\u00e1t\u00fdch letech minul\u00e9ho stolet\u00ed v Praze a z\u00e1rove\u0148 i v\u0161eobecn\u00e1 elektrifikace republiky. V\u00fdstavbu zaji\u0161\u0165ovala spole\u010dnost \u00dast\u0159edn\u00ed elektr\u00e1rny. Lokalita byla p\u0159\u00edhodn\u00e1 kv\u016fli nedalek\u00e9mu hn\u011bdouheln\u00e9mu lomu Hedvika. Po uveden\u00ed do provozu v roce 1926 \u010d\u00edtal instalovan\u00fd v\u00fdkon elektr\u00e1rny 45 MW a o \u0161est let pozd\u011bji byl spu\u0161t\u011bn nov\u00fd blok o v\u00fdkonu 25 MW. Po obsazen\u00ed sudet byla v roce 1939 elektr\u00e1rna ve vlastnictv\u00ed \u0159\u00ed\u0161sk\u00e9 spole\u010dnosti Elektrowerke, A. G., Berlin. Provoz elektr\u00e1rny byl ukon\u010den v roce 1965.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.544864,
+                    50.5271203085051
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Erv\u011bnice II",
+                "place": "Komo\u0159any u Mostu",
+                "years_in_service": "1948-1980",
+                "power": "160 MW",
+                "sources1": "https://cs.wikipedia.org/wiki/Zanikl%C3%A9_elektr%C3%A1rny_v_%C4%8Cesku#Elektr%C3%A1rna_Erv%C4%9Bnice",
+                "sources2": "\u0160EMBERA, Franti\u0161ek.\u00a0Erv\u011bnick\u00e1 elektr\u00e1rna. Praha: Franti\u0161ek \u0160embera, 1926",
+                "type": "uheln\u00e1-hn\u011bd\u00e9",
+                "owner": "Elektrowerke, A. G., Berlin",
+                "description_short": "B\u011bhem obdob\u00ed druh\u00e9 sv\u011btov\u00e9 v\u00e1lky doch\u00e1zelo k rozmachu pr\u016fmyslu v okol\u00ed elektr\u00e1rny Erv\u011bnice I. Na popud tohoto rozmachu byla postavena elektr\u00e1rna Erv\u011bnice II, kter\u00e1 byla uvedena do provozu v rozmez\u00ed let 1948 a 1950. Do provozu bylo uvedeno celkem 5 turbosoustroj\u00ed o celkov\u00e9m v\u00fdkonu 160 MW (5x32 MW). Elektr\u00e1rna Erv\u011bnice II byla z\u00e1sobov\u00e1na hn\u011bd\u00fdm uhl\u00fdm z hn\u011bdouheln\u00e9ho lomu Hedvika. Provoz elektr\u00e1rny Erv\u011bnice II byl ukon\u010den v roce 1980.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.544864,
+                    50.5271203085051
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Po\u0159\u00ed\u010d\u00ed I",
+                "place": "Trutnov",
+                "years_in_service": "1914-1957",
+                "power": "4,5 MW, pozd\u011bji 26 MW a pak 6 MW",
+                "sources1": "https://cs.wikipedia.org/wiki/Zanikl%C3%A9_elektr%C3%A1rny_v_%C4%8Cesku#Elektr%C3%A1rna_Po%C5%99%C3%AD%C4%8D%C3%AD_1",
+                "sources2": "https://krkonossky.denik.cz/zpravy_region/epo1-se-chysta-k-otevreni-nabidne-umeni-v-turbinove-hale-i-rozvodnach-energie-20.html",
+                "type": "Uheln\u00e1",
+                "owner": "Svaz hospod\u00e1\u0159sk\u00fdch dru\u017estev pro odb\u011br elektrick\u00e9 energie",
+                "description_short": "Elektr\u00e1rna Po\u0159\u00ed\u010d\u00ed I uveden\u00e1 do provozu v roce 1914 dod\u00e1vala elektrickou energii do 60 m\u011bst a o obc\u00ed v Trutnovsk\u00e9m regionu. Instalovan\u00fd v\u00fdkon elektr\u00e1rny \u010dinil 4,5 MW, energii pro gener\u00e1tor dod\u00e1valo 6 kotl\u016f. V n\u00e1sleduj\u00edc\u00edch letech prob\u011bhla modernizace a instalovan\u00fd v\u00fdkon v\u0161plhal a\u017e na 26 MW. V obdob\u00ed druh\u00e9 sv\u011btov\u00e9 v\u00e1lky se v\u00fdkon sn\u00ed\u017eil na 6 MW. Po uveden\u00ed do provozu elektr\u00e1rny Po\u0159\u00ed\u010d\u00ed II v roce 1957, byla elektr\u00e1rna po\u0159\u00ed\u010d\u00ed I odstavena a n\u00e1sledn\u011b zru\u0161ena v roce 1970.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    15.9582431837067,
+                    50.5776796889413
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Po\u0159\u00ed\u010d\u00ed II",
+                "place": "Trutnov",
+                "years_in_service": "1957-sou\u010dastnost",
+                "power": "165 MW",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarny-porici-58181",
+                "sources2": "https://dspace.cuni.cz/bitstream/handle/20.500.11956/83800/140050101.pdf?sequence=4&isAllowed=y",
+                "type": "uheln\u00e1",
+                "owner": "???",
+                "description_short": "Elektr\u00e1rna Po\u0159\u00ed\u010d\u00ed II za\u010dala fungovat v roce 1957, jako n\u00e1hrada elektr\u00e1rny Po\u0159\u00ed\u010d\u00ed I, s p\u016fvodn\u00edmi \u0161esti kotly (jednotkov\u00fd v\u00fdkon 125 tun p\u00e1ry/hodinu), z nich\u017e \u010dty\u0159i byly pozd\u011bji nahrazeny dv\u011bma modern\u00edmi kotli fluidn\u00edho typu v letech 1996 a 1998. Tyto fluidn\u00ed kotle, spaluj\u00edc\u00ed hn\u011bd\u00e9 uhl\u00ed, maj\u00ed ka\u017ed\u00fd jmenovit\u00fd v\u00fdkon 250 tun p\u00e1ry/hodinu. Dva z p\u016fvodn\u00edch kotl\u016f jsou v sou\u010dasn\u00e9 dob\u011b vyu\u017e\u00edv\u00e1ny jako havarijn\u00ed rezerva pro vyt\u00e1p\u011bn\u00ed. V strojovn\u011b elektr\u00e1rny jsou instalov\u00e1ny t\u0159i turbogener\u00e1tory s jmenovit\u00fdm v\u00fdkonem 55 MW ka\u017ed\u00fd.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    15.9631020165296,
+                    50.5729064091736
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Jablonec",
+                "place": "Jablonec nad Nisou",
+                "years_in_service": "1911-sedmdes\u00e1t\u00e1 l\u00e9ta",
+                "power": "2,8 MW",
+                "sources1": "https://pamatkovykatalog.cz/tepelna-elektrarna-20269539",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "???",
+                "description_short": "Jabloneck\u00e1 elektr\u00e1rna byla postavena v roce 1911 podle projektu Josefa Ulricha. Strojovna elektr\u00e1rny \u010d\u00edtala 4 parn\u00ed turb\u00edny o celkov\u00e9m v\u00fdkonu p\u0159ibli\u017en\u011b 2,8 MW, kter\u00e9 vyr\u00e1b\u011bli mechanickou energii pro celkem 10 gener\u00e1tor\u016f o v\u00fdkonov\u00e9m rozp\u011bt\u00ed 26-1400 kW. Provoz elektr\u00e1rny byl v sedmdes\u00e1t\u00fdch letech 20. stolet\u00ed p\u0159eorientov\u00e1n na kombinovanou v\u00fdrobu elektrick\u00e9 a tepeln\u00e9 energie a v tomto provozu fungovala do 90. let.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    15.149,
+                    50.727
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Most",
+                "place": "Most",
+                "years_in_service": "1897-???",
+                "power": "2,7 MW",
+                "sources1": "MIKE\u0160, Jan.\u00a0Elektrifikace \u010ceskoslovenska do roku 1938. Online, Diserta\u010dn\u00ed pr\u00e1ce, vedouc\u00ed Efmertov\u00e1, Marcela. Praha: Univerzita Karlova, Filozofick\u00e1 fakulta, 2016. Dostupn\u00e9 z:\u00a0https://dspace.cuni.cz/handle/20.500.11956/83800. [cit. 2023-11-18].",
+                "sources2": "https://de.wikipedia.org/wiki/Stra\u00dfenbahn_Most_(Meterspur)",
+                "type": "uheln\u00e1",
+                "owner": "Br\u00fcxer Strassenbahn- und Elektrizit\u00e4ts-Gesellschaft",
+                "description_short": "V roce 1987 postavila belgick\u00e1 spole\u010dnost  Societe Anonyme d'Electricite m\u011bstskou elektr\u00e1rnu m\u011bsta Most. Ve stejn\u00e9m m\u011bst\u011b zalo\u017eilo m\u011bsto spole\u010dnost Br\u00fcxer Strassenbahn- und Elektrizit\u00e4ts-Gesellschaft, kter\u00e1 se stala provozovatelem m\u00edstn\u00ed uheln\u00e9 elektr\u00e1rny a posl\u00e9ze i vybudovan\u00e9 mosteck\u00e9 trak\u010dn\u00ed s\u00edt\u011b uveden\u00e9 do provozu v roce 1899. Elektr\u00e1rna o v\u00fdkonu 2,7 MW byla z\u00e1sobov\u00e1na uhl\u00edm z dol\u016f Minerva a Himmelsf\u00fcrstschacht. Elektr\u00e1rna dod\u00e1vala elektrickou energii pro m\u011bsto Most a okol\u00ed a\u017e po \u017datec.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    13.6124219607144,
+                    50.5155852529745
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Liberec",
+                "place": "Liberec",
+                "years_in_service": "1906-1922",
+                "power": "1,79 MW",
+                "sources1": "https://www.pamatkovykatalog.cz/tepelna-elektrarna-24056853",
+                "sources2": "",
+                "type": "\u010derno uheln\u00e1",
+                "owner": "Spole\u010dnost libereck\u00e9 pouli\u010dn\u00ed dr\u00e1hy",
+                "description_short": "Tepeln\u00e1 elektr\u00e1rna v Liberci vznikla v roce 1906 roz\u0161\u00ed\u0159en\u00edm trak\u010dn\u00ed elektr\u00e1rny. Dva ro\u0161tov\u00e9 kotle spalovaly ro\u010dn\u011b 5000-6000 tun \u010dern\u00e9ho uhl\u00ed ro\u010dn\u011b. Ve strojovn\u011b elektrickou energii v\u00fdr\u00e1b\u011blo dohromady 5 gener\u00e1tor\u016f o celkov\u00e9m instalovan\u00e9m v\u00fdkonu 1,79 MW. Sou\u010d\u00e1st\u00ed strojovny byly z\u00e1rove\u0148 z\u00e1lo\u017en\u00ed elektrochemick\u00e9 akumul\u00e1tory. V tomto re\u017eimu pracovala elektr\u00e1rna a\u017e do roku 1922, kdy byla nahrazena elektr\u00e1rnou v And\u011blsk\u00e9 Ho\u0159e, Jablonci, sask\u00e9m Hirschfelde a machn\u00ednskou vodn\u00ed elektr\u00e1rnou.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    15.051,
+                    50.763
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "\u00dast\u00ed nad Labem",
+                "place": "na \u0160pit\u00e1lk\u00e9m n\u00e1m\u011bst\u00ed",
+                "years_in_service": "1899-1922",
+                "power": "???",
+                "sources1": "https://tramvajeusti.webnode.cz/products/areal-spitalske-namesti/",
+                "sources2": "https://ustecky.denik.cz/zpravy_region/20100607_wv_teplarna_spitalske_prvni_vusti.html",
+                "type": "hn\u011bdo uheln\u00e1",
+                "owner": "AEG Union, pozd\u011bji \u010desky Elektrick\u00fd podnik m\u011bsta \u00dast\u00ed",
+                "description_short": "\u00dasteck\u00e1 m\u011bstsk\u00e1 elektr\u00e1rna byla uvedena do provozu v roce 1899. Elektrick\u00fd stejnosm\u011brn\u00fd proud byl pou\u017e\u00edv\u00e1n pro nap\u00e1jen\u00ed tamn\u00ed trakce, m\u011bstsk\u00fdch sv\u011bteln\u00fdch okruh\u016f a pro \u00fa\u010dely pr\u016fmyslov\u00e9 byl transformov\u00e1n na proud st\u0159\u00eddav\u00fd. V roce 1922 byl provoz elektr\u00e1rny p\u0159etvo\u0159en na tepl\u00e1renskou v\u00fdrobu. \u00dast\u00ed nad Labem bylo tak prvn\u00edm m\u011bstem na na\u0161em \u00fazem\u00ed, kter\u00e9 m\u011blo d\u00e1lkov\u00e9 vyt\u00e1p\u011bn\u00ed dom\u00e1cnost\u00ed a podnik\u016f. Tepl\u00e1rna byla v provozu a\u017e do roku 1968.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    14.0320322122695,
+                    50.6620434852601
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Hole\u0161ovick\u00e1 elektr\u00e1rna",
+                "place": "Praha - Hole\u0161ovice",
+                "years_in_service": "1900-",
+                "power": "1908- 8924 kW,, 1910 nov\u00e1 turb\u00edna,22MW",
+                "sources1": "https://cs.wikipedia.org/wiki/Zanikl%C3%A9_elektr%C3%A1rny_v_%C4%8Cesku#Elektr%C3%A1rna_Praha-Hole%C5%A1ovice",
+                "sources2": "http://www.odbornecasopisy.cz/elektro/casopis/tema/co-jsme-psali-pred-100-lety-3-elektrarny-hlav-mesta-prahy--17145",
+                "type": "uheln\u00e1",
+                "owner": "",
+                "description_short": "\u00dast\u0159edn\u00ed elektrick\u00e1 stanice kr\u00e1lovsk\u00e9ho m\u011bsta Prahy byla vybudov\u00e1na v letech 1898-1900. P\u016fvodn\u011b byla osazena parn\u00edmi stroji a slou\u017eila k dod\u00e1vk\u00e1ch el. energie pro nap\u00e1jen\u00ed tramvaj\u00ed. Postupn\u011b byla roz\u0161i\u0159ov\u00e1na a modernizov\u00e1na. Po vyd\u00e1n\u00ed z\u00e1kona o velk\u00e9 Praze se stava centr\u00e1ln\u00ed elektr\u00e1rnou. Byla prvn\u00ed elektr\u00e1rnou na \u00fazem\u00ed dne\u0161n\u00ed Prahy vyr\u00e1b\u011bj\u00edc\u00ed st\u0159\u00eddav\u00fd proud.",
+                "description1": "Elektr\u00e1rna byla vybudov\u00e1na takticky na b\u0159ehu Vltavy nedaleko n\u00e1dra\u017e\u00ed Hole\u0161ovice, aby bylo mo\u017en\u00e9 dov\u00e1\u017eet pomoc\u00ed vle\u010dky uhl\u00ed pro provoz. ",
+                "description2": "Strojn\u00edm vybaven\u00edm elkr\u00e1rny bylo po uveden\u00ed do provozu 5 parn\u00edch stroj\u016f ka\u017edy po 1000 HP (745,7 kW). V roce 1903 byla roz\u0161\u00ed\u0159ena o dal\u0161\u00ed parn\u00ed stroj o v\u00fdkonu 3000 HP (2,24 MW). V roce 1910 byla osazena prvn\u00ed  parn\u00ed turb\u00ednou v n\u00e1sleduj\u00edc\u00edch letech byla osazov\u00e1na dal\u0161\u00edmi uheln\u00fdmi kotli a parn\u00edmi kondenza\u010dn\u00edmi turb\u00ednami jej\u00ed celkov\u00fd v\u00fdkon \u010dinil 22 MW. V roce 1925 se spustil kombinovan\u00fd provoz, sputili se tedy dod\u00e1vky tepla pro Prahu. ",
+                "description3": "V letech 1971-1975 byla p\u0159ebudov\u00e1na na spalov\u00e1n\u00ed t\u011b\u017ek\u00e9ho topn\u00e9ho oleje a p\u0159ebudov\u00e1na na tepl\u00e1rnu. Postupn\u011b byly zbo\u0159eny 3 ze \u010dty\u0159 dominantn\u00edch kom\u00edn\u016f. Od roku 1981 se jedn\u00e1 o pam\u00e1tkov\u011b chr\u00e1n\u011bn\u00fd objekt.",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    14.435645,
+                    50.1091711
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "Karl\u00edn",
+                "place": "Praha - Karl\u00edn",
+                "years_in_service": "1894-1939",
+                "power": "",
+                "sources1": "",
+                "sources2": "",
+                "type": "uheln\u00e1",
+                "owner": "Franti\u0161ek K\u0159i\u017e\u00edk ",
+                "description_short": "Byla postavena v letech 1892-1894 jako jedna z prvn\u00edch obecn\u00edch elektr\u00e1rem v \u010cech\u00e1ch. Dod\u00e1vala stejnosm\u011brn\u00fd proud do obloukov\u00fdch lamp Karl\u00ednsk\u00e9ho ve\u0159ejn\u00e9ho osv\u011btlen\u00ed.",
+                "description1": "Byla vybavena 4 parn\u00edmi kotli a dynamy, zbytkov\u00e9 teplo z kotl\u016f bylo vyu\u017eito k vyt\u00e1p\u011bt\u00ed lidov\u00fdch l\u00e1zn\u00ed a p\u0159ilehl\u00e9 pr\u00e1delny. Dominatou elektr\u00e1rny je 30 m vysok\u00fd kom\u00edn. Kter\u00fd byl v roce 1960 staticky zaji\u0161t\u011bn a stoj\u00ed jako p\u0159ipom\u00ednka b\u00fdval\u00e9 elektr\u00e1rny dodnes.",
+                "description2": "Po roce 1939 slou\u017eila ji\u017e pouze jako m\u011bn\u00edrna a z m\u00edst kotl\u016f se staly sklady. Po roce 1945 s\u00eddlila v are\u00e1lu opravna transform\u00e1tor\u016f, d\u00edlny \u010cSAD a kancel\u00e1\u0159e.",
+                "description3": "Na obr\u00e1zku je sou\u010dasn\u00e1 podoba m\u00edsta b\u00fdvval\u00e9 elektr\u00e1rny, kde byl zachov\u00e1n kom\u00edn",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    14.450583333333332,
+                    50.09054722222223
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
                 "name": "Pardubice",
                 "place": "ulice Arno\u0161ta z Pardubic",
                 "years_in_service": "1904",
                 "power": "(15 MW)",
-                "sources1": "pamatkov\u00fdkatalog",
-                "sources2": "https://pamatkovykatalog.cz/elektrarna-mesta-pardubic-24537972",
+                "sources1": "https://pamatkovykatalog.cz/elektrarna-mesta-pardubic-24537972",
+                "sources2": "",
                 "type": "\u010derno uheln\u00e1",
                 "owner": "Franti\u0161ek K\u0159i\u017e\u00edk -> m\u011bsto Pardubice-> \u010cEZ",
                 "description_short": "Postavena firmou Fr. K\u0159i\u017e\u00edka, uvdena do provozu roku 1905. V roce 1911 ji vykupoupilo m\u011bsto Pardubice a st\u00e1v\u00e1 se m\u011bstskou elektr\u00e1rnou, tedy slou\u017e\u00ed pro elektrifikaci Pardubic. Po vzniku \u010cSR a p\u0159ijet\u00ed elektrifika\u010dn\u00edho z\u00e1kona \u010d. 438/1919 Sb. a na\u0159. R\u010cS se st\u00e1v\u00e1 elektr\u00e1rnou svazovou z\u00e1sobuj\u00edc\u00ed \u0161irok\u00e9 okol\u00ed. Postupn\u011b (ve 20. a 30. letech proch\u00e1z\u00ed elektr\u00e1rna modernizac\u00ed. Po druh\u00e9 sv\u011btov\u00e9 v\u00e1lce byla pou\u017e\u00edv\u00e1na jako tepl\u00e1rna a p\u0159estav\u011bna na spalov\u00e1n\u00ed mazutu, v souvislosti s v\u00fdrobou v Paramu (mazut odpadn\u00ed produkt).",
@@ -243,7 +889,8 @@
                 "description3": "V odstavci jsem ozna\u010dil slovo mod\u0159e, bylo by tam dobr\u00e9 ud\u011blat odkaz na Opatovice",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -271,7 +918,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -299,7 +947,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -327,7 +976,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -355,7 +1005,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -383,7 +1034,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -411,7 +1063,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -439,12 +1092,42 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
                     14.4172844,
                     50.4138506
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "icon": "industry",
+                "name": "\u0160ternberk",
+                "place": "",
+                "years_in_service": "1890",
+                "power": "Nen\u00ed zn\u00e1mo",
+                "sources1": "sternberg.org (technick\u00e9 pam\u00e1tky)",
+                "sources2": "",
+                "type": "Uheln\u00e1",
+                "owner": "Alois Bellada -> m\u011bsto \u0160ternberk ",
+                "description_short": "Na konci 19. stolet\u00ed se \u0160ternbesk\u00e9 ml\u00fdny, tkalcovny, textilky a dal\u0161\u00ed v\u00fdrobny za\u010daly osazovat parn\u00edmi stroji. V roce 1883 p\u0159ebuduval budovu b\u011blidla a barv\u00edrny na parn\u00ed pohon Johan Belleda v letech 1887 - 1889 jej za\u010dal p\u0159estavovat na parn\u00ed elekr\u00e1rnu. Od roku 1890 za\u010dal Alois Bellada vyr\u00e1b\u011bt elekt\u0159inu. Od roku 1895 napp\u00e1jela Belledova elktr\u00e1rna tak\u00e9 ve\u0159ejn\u00e9 osv\u011btlen\u00ed. V roce 1911 p\u0159evzalo elektr\u00e1rnu m\u011bsto a provozovalo ji do roku 1931, kdy byla p\u0159estav\u011bna na rozvodnu.",
+                "description1": "",
+                "description2": "",
+                "description3": "",
+                "description4": "",
+                "description5": "",
+                "description6": "",
+                "description7": ""
+            },
+            "geometry": {
+                "coordinates": [
+                    17.2890217,
+                    49.72193
                 ],
                 "type": "Point"
             }
@@ -467,7 +1150,8 @@
                 "description3": "V\u00fdstavba elektr\u00e1rny za\u010dala v roce\u00a01931. Hlavn\u00ed halu tvo\u0159\u00ed ocelov\u00e1 konstrukce s vyzd\u00edvkou z re\u017en\u00e9ho zdiva. V are\u00e1lu byly postaveny dv\u011b n\u00e1dr\u017ee na vodu, proto\u017ee bl\u00edzk\u00e1 \u0159eka m\u011bla hlavn\u011b v l\u00e9t\u011b n\u00edzk\u00fd pr\u016ftok vody. V elektr\u00e1rn\u011b byly vnit\u0159n\u00ed rozvody na 22kV pro pot\u0159eby MSE a dom\u00e1c\u00ed rozvodny na 3000V a 380V. Vedle budov elektr\u00e1rny byla postavena venkovn\u00ed nekryt\u00e1 rozvodna na 110kV, odkud vych\u00e1zela dv\u011b d\u00e1lkov\u00e1 veden\u00ed sm\u011brem na P\u0159erov a \u017dilinu.\u00a0\u00a0N\u00e1klady na v\u00fdstavbu dos\u00e1hly \u010d\u00e1stky zhruba 80 milionu K\u010ds.\u00a0",
                 "description4": "T\u0159ebovick\u00e1 elektr\u00e1rna byla spu\u0161t\u011bna dne\u00a01. \u010dervence 1933. Po spu\u0161t\u011bn\u00ed provozu se jednalo o nejsiln\u011bj\u0161\u00ed vysokotlakou elektrickou \u00fast\u0159ednu na sv\u011bt\u011b, nejv\u011bt\u0161\u00ed elektr\u00e1rnu na Morav\u011b a z\u00e1rove\u0148 nejmodern\u011bj\u0161\u00ed ve st\u0159edn\u00ed Evrop\u011b. Prvn\u00ed etapa v\u00fdstavby byla dokon\u010dena v roce\u00a01939, elektr\u00e1rna m\u011bla tehdy v\u00fdkon 65 MW.",
                 "description5": "A\u010dkoliv elektr\u00e1rna pracovala s nejhor\u0161\u00edm ostravsk\u00fdm uhl\u00edm, cel\u00e9 za\u0159\u00edzen\u00ed se vyzna\u010dovalo p\u0159ekvapuj\u00edc\u00ed \u010distotou. Uhl\u00ed se automaticky v\u00e1\u017eilo a pomoc\u00ed mechanick\u00fdch dopravn\u00edk\u016f bylo dopraveno do ml\u00fdnice. Ohromn\u00e9 ml\u00fdny uhl\u00ed pohltily a semlely na prach, kter\u00fd ventil\u00e1tory nafoukaly do z\u00e1sobn\u00edk\u016f, um\u00edst\u011bn\u00fdch vysoko pod st\u0159echou kotelny. Kotelna byla 35 metr\u016f vysok\u00e1 budova v n\u00ed\u017e bylo \u010disto a topi\u010d v\u0161e ovl\u00e1dat pomoc\u00ed p\u0159\u00edstroj\u016f, kter\u00e9 informovaly o prob\u00edhaj\u00edc\u00edch procesech.\u00a0Struska a pop\u00edlek koteln\u00edch agreg\u00e1t\u016f se odplavuje do jam na strusku, le\u017e\u00edc\u00edch mimo budovu, odkud se nakl\u00e1d\u00e1 do vagonu a pot\u00e9 odv\u00e1\u017e\u00ed na skl\u00e1dky v okol\u00ed.",
-                "description6": "B\u011bhem druh\u00e9 etapy v\u00fdstavby v letech\u00a01950 a\u017e 1955\u00a0byl v\u00fdkon elektr\u00e1rny zv\u00fd\u0161en na 285,5 MW. V t\u00e9to etap\u011b byl tak\u00e9 postaven t\u0159et\u00ed kom\u00edn, pozd\u011bji tak\u00e9 t\u0159i nov\u00e9 chlad\u00edc\u00ed v\u011b\u017ee.\u00a0"
+                "description6": "B\u011bhem druh\u00e9 etapy v\u00fdstavby v letech\u00a01950 a\u017e 1955\u00a0byl v\u00fdkon elektr\u00e1rny zv\u00fd\u0161en na 285,5 MW. V t\u00e9to etap\u011b byl tak\u00e9 postaven t\u0159et\u00ed kom\u00edn, pozd\u011bji tak\u00e9 t\u0159i nov\u00e9 chlad\u00edc\u00ed v\u011b\u017ee.\u00a0",
+                "description7": "Koncem roku\u00a01958\u00a0bylo v bl\u00edzkosti elektr\u00e1rny vybudov\u00e1no odkali\u0161t\u011b, na kter\u00e9 se plavila v\u011bt\u0161\u00ed \u010d\u00e1st zadr\u017een\u00fdch pop\u00edlku a p\u0159ibli\u017en\u011b 40% produkce strusky."
             },
             "geometry": {
                 "coordinates": [
@@ -495,7 +1179,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -523,7 +1208,8 @@
                 "description3": "Elektr\u00e1rna vyr\u00e1b\u011bla stejnosm\u011brn\u00fd proud 2x 150V. P\u016fvodn\u011b dod\u00e1vala proud 80 odb\u011bratel\u016fm, v\u010detn\u011b J\u00e1my Terezie a koksovny J\u00e1my Trojice.\u00a0",
                 "description4": "\u010cerpac\u00ed stanice vodovodu byla um\u00edst\u011bna v \u201eCentr\u00e1ln\u00ed stanici pro elektrick\u00e9 osv\u011btlen\u00ed\u201c pravd\u011bpodobn\u011b z \u00fasporn\u00fdch d\u016fvod\u016f, proto\u017ee obsluha elektr\u00e1rny a vod\u00e1rny byla spojena. Elektrick\u00e1 energie byla vyu\u017e\u00edv\u00e1na pro pohon p\u00edstov\u00e9ho \u010derpadla.\u00a0",
                 "description5": "V roce 1911 byly p\u0159istav\u011bny suter\u00e9nn\u00ed prostory pro akumul\u00e1tor, kter\u00fd nap\u00e1jel tramvajovou tra\u0165 do Mich\u00e1lkovic a po roz\u0161\u00ed\u0159en\u00ed o dal\u0161\u00ed kotel a parn\u00ed stoj o v\u00fdkonu 200 kon\u00ed i tramvajovou tra\u0165 do Hru\u0161ova.\u00a0",
-                "description6": "V roce 1914 byl parn\u00ed pohon p\u0159em\u011bn\u011bn na pohon elektrick\u00fd. Ve stejn\u00e9m roce byla postavena elektr\u00e1rna na koksovn\u011b Karolina a transforma\u010dn\u00ed stanice na dole Terezie.\u00a0"
+                "description6": "V roce 1914 byl parn\u00ed pohon p\u0159em\u011bn\u011bn na pohon elektrick\u00fd. Ve stejn\u00e9m roce byla postavena elektr\u00e1rna na koksovn\u011b Karolina a transforma\u010dn\u00ed stanice na dole Terezie.\u00a0",
+                "description7": "Dal\u0161\u00ed rekonstrukce elektr\u00e1rny prob\u00edhaly v letech 1931 a\u017e 1933. Elektr\u00e1rna p\u0159e\u0161la na st\u0159\u00eddav\u00fd proud a byla prom\u011bn\u011bna na transforma\u010dn\u00ed stanici. V\u00a0roce 1941 byla elektr\u00e1rna slou\u010dena s obecn\u00ed elektr\u00e1rnou v Radvanic\u00edch.\u00a0"
             },
             "geometry": {
                 "coordinates": [
@@ -551,7 +1237,8 @@
                 "description3": "Po roce 1918 se akcion\u00e1\u0159em elektr\u00e1rny stalo m\u011bsto Moravsk\u00e1 Ostrava. Elektr\u00e1rna i dal\u0161\u00ed provozy se modernizuj\u00ed a roz\u0161i\u0159uj\u00ed. V meziv\u00e1le\u010dn\u00e9 dob\u011b vzrostl akciov\u00fd kapit\u00e1l spole\u010dnosti a\u017e na 11 milion\u016f K\u010d.",
                 "description4": "V roce 1959 byla elektr\u00e1rna upravena na v\u00fdtopnu pro budovan\u00e9 s\u00eddli\u0161t\u011b Jind\u0159i\u0161ka. V\u00fdroba elekt\u0159iny st\u00e1le klesala a v roce 1961 byla zastavena trvale. B\u00fdval\u00e1 elektr\u00e1rna pak byla p\u0159ejmenov\u00e1na na Tepl\u00e1rnu Ostrava.",
                 "description5": "Nejstar\u0161\u00ed ostravsk\u00e1 elektr\u00e1rna MOEL ukon\u010dila provoz 9/11 1967.",
-                "description6": "Rozvodna na rozd\u00edl od elektr\u00e1rny v\u0161ak fungovala st\u00e1le. V 80t\u00fdch letech byla modernizov\u00e1na v souvislosti s p\u0159echodem m\u011bsta z nap\u011bn\u00ed 6kV na 22kV. Od roku 1996 slou\u017eila jen jako provozn\u00ed z\u00e1loha."
+                "description6": "Rozvodna na rozd\u00edl od elektr\u00e1rny v\u0161ak fungovala st\u00e1le. V 80t\u00fdch letech byla modernizov\u00e1na v souvislosti s p\u0159echodem m\u011bsta z nap\u011bn\u00ed 6kV na 22kV. Od roku 1996 slou\u017eila jen jako provozn\u00ed z\u00e1loha.",
+                "description7": "Je\u0161t\u011b ned\u00e1vno byla nejstar\u0161\u00edm elektrotechnick\u00fdm za\u0159\u00edzen\u00edm sv\u00e9ho druhu na cel\u00e9m \u00fazem\u00ed Moravy a Slezska. V roce 2008 byl are\u00e1l zbo\u0159en."
             },
             "geometry": {
                 "coordinates": [
@@ -579,7 +1266,8 @@
                 "description3": "Kontakty s Moravsko-slezsk\u00fdmi elektr\u00e1rnami Moravsk\u00e1 Ostrava zapo\u010dat\u00e9 p\u0159i v\u00fdstavb\u011b a vyu\u017e\u00edv\u00e1n\u00ed elektr\u00e1rny v T\u0159ebovic\u00edch vy\u00fastily v r. 1941 ve f\u00fazi obou firem. F\u00fazi schv\u00e1lila mimo\u0159\u00e1dn\u00e1 valn\u00e1 hromada 12. 9. 1941, sou\u010dasn\u011b do\u0161lo i ke zm\u011bn\u011b n\u00e1zvu firmy na \u201eV\u00fdchodomoravsk\u00e9 elektr\u00e1rny, akciov\u00e1 spole\u010dnost v P\u0159erov\u011b\u201c. Do obchodn\u00edho rejst\u0159\u00edku Krajsk\u00e9ho soudu v Olomouci byla zm\u011bna zaps\u00e1na 25. 11. 1941 (d\u00e1le viz archivn\u00ed fond \u201eV\u00fdchodomoravsk\u00e9 elektr\u00e1rny, akciov\u00e1 spole\u010dnost v P\u0159erov\u011b\u201c, \u010d. NAD: 2291*).",
                 "description4": "Tepeln\u00e1 elektr\u00e1rna P\u0159erova odeb\u00edrala ostravsk\u00e9 uhl\u00ed z dol\u016f Anselm, Betyna, \u0160alamoun a \u017dofie v mno\u017estv\u00ed 7260 t/rok. V koteln\u011b bylo instalov\u00e1ny 4 strmotrubn\u00e9 kotle s ro\u0161ty Weck v\u00fdroby Sl\u00e1dek/Spojen\u00e9 stroj\u00edrny. P\u00e1ra rozt\u00e1\u010dela 2 parn\u00ed turb\u00edny o v\u00fdkonech 2000 a 7200 ks. Elekt\u0159inu vyr\u00e1b\u011bly 2 gener\u00e1tory o v\u00fdkonu 1200 kW z roku 1919 od firmy BBC a o v\u00fdkonu 4550 kW z roku 1921 od firmy \u010cMK. Dopl\u0148uj\u00edc\u00edm strojem byl 1 motorgener\u00e1tor o v\u00fdkonu 23 kW. Z\u00e1lo\u017en\u00edm zdrojem byla 63 \u010dl\u00e1nkov\u00fd akumul\u00e1tor o kapacit\u011b 135 Amp/h. V rozvodn\u011b byly osazeny dva transform\u00e1tory o v\u00fdkonu 4000 kVA z roku 1921 od firmy \u010cMK.",
                 "description5": "Elektr\u00e1rna m\u00e1 vysok\u00fd region\u00e1ln\u00ed v\u00fdznam v r\u00e1mci historick\u00e9ho v\u00fdvoje elektrizace Moravy jako sou\u010d\u00e1sti celkov\u00e9 koncepce soustavn\u00e9 elektrizace \u010ceskoslovensk\u00e9 republiky, kter\u00e1 vych\u00e1zela ze z\u00e1kona ze dne 22. 7. 1919, \u010d. 438 Sb., o st\u00e1tn\u00ed podpo\u0159e p\u0159i zah\u00e1jen\u00ed soustavn\u00e9 elektrizace. Jedine\u010dn\u00e9 architektonick\u00e9 \u0159e\u0161en\u00ed spo\u010d\u00edv\u00e1 v kombinaci funk\u010dn\u00ed stavby s reprezentativn\u00ed architektonickou formou a detailem. Mimo\u0159\u00e1dn\u00e9 je zachov\u00e1n\u00ed autentick\u00e9 podoby architektury zejm. provozon\u011b administrativn\u00ed budovy, v\u010detn\u011b zachovan\u00fdch architektonick\u00fdch detail\u016f, jako jsou nap\u0159\u00edklad detail zobo\u0159ezu na fas\u00e1d\u00e1ch, kontrastn\u00ed u\u017eit\u00ed \u010derven\u00fdch p\u00e1len\u00fdch a re\u017en\u00fdch cihel atd. Nesporn\u00e1 je urbanistick\u00e1 hodnota, nebo\u0165 se jedn\u00e1 o v\u00fdznamnou dominantu P\u0159erova, kter\u00e1 je ned\u00edlnou sou\u010d\u00e1st\u00ed historicky ust\u00e1len\u00fdch panoramatick\u00fdch pohled\u016f na m\u011bsto. Kom\u00edny z tmav\u00fdch cihel s kovov\u00fdmi skru\u017eemi jsou charakteristick\u00fdm vizu\u00e1ln\u00edm znakem m\u011bsta v bl\u00edzk\u00fdch i d\u00e1lkov\u00fdch pohledech.",
-                "description6": "Ve m\u011bst\u011b ale ji\u017e p\u016fsobil za\u0159izuj\u00edc\u00ed v\u00fdbor pro elektrick\u00e9 osv\u011btlen\u00ed, jeho\u017e \u010dlenov\u00e9 po\u017e\u00e1dali v roce 1896 o povolen\u00ed v\u00e9st s\u00edt\u011b elektrick\u00fdch dr\u00e1t\u016f po ulic\u00edch a ve\u0159ejn\u00fdch m\u00edstech. Z\u00e1rove\u0148 se jednalo o v\u00fdstavb\u011b elektrick\u00e9 centr\u00e1ly, jako staveni\u0161t\u011b bylo p\u016fvodn\u011b vybr\u00e1no n\u00e1m\u011bst\u00ed Na Marku."
+                "description6": "Ve m\u011bst\u011b ale ji\u017e p\u016fsobil za\u0159izuj\u00edc\u00ed v\u00fdbor pro elektrick\u00e9 osv\u011btlen\u00ed, jeho\u017e \u010dlenov\u00e9 po\u017e\u00e1dali v roce 1896 o povolen\u00ed v\u00e9st s\u00edt\u011b elektrick\u00fdch dr\u00e1t\u016f po ulic\u00edch a ve\u0159ejn\u00fdch m\u00edstech. Z\u00e1rove\u0148 se jednalo o v\u00fdstavb\u011b elektrick\u00e9 centr\u00e1ly, jako staveni\u0161t\u011b bylo p\u016fvodn\u011b vybr\u00e1no n\u00e1m\u011bst\u00ed Na Marku.",
+                "description7": "V listopadu toho roku schvaloval obecn\u00ed v\u00fdbor v \u010dele se starostou Franti\u0161kem Tropperem stavbu m\u011bstsk\u00e9 elektr\u00e1rny. Projekt vytvo\u0159il Ing. Josef Pfeffermann ve stavebn\u00ed kancel\u00e1\u0159i architekta a stavitele Edvarda Sochora. Pro osv\u011btlen\u00ed m\u011bsta byla nejvhodn\u011bj\u0161\u00ed stejnosm\u011brn\u00e1 s\u00ed\u0165 o n\u00edzk\u00e9m nap\u011bt\u00ed, jeho\u017e zdroj bylo t\u0159eba um\u00edstit uprost\u0159ed z\u00e1stavby. Za t\u00edm \u00fa\u010delem byly z\u00edsk\u00e1ny pozemky na lev\u00e9m b\u0159ehu Be\u010dvy, na dne\u0161n\u00edm n\u00e1b\u0159e\u017e\u00ed Protifa\u0161istick\u00fdch bojovn\u00edk\u016f. Hlavn\u00edmi prvky pr\u016f\u010del\u00ed byly term\u00e1ln\u00ed okno strojovny a \u010dty\u0159icetimetrov\u00fd kom\u00edn kotelny. Stavba byla zad\u00e1na staviteli Franti\u0161ku \u017d\u00e1kovi v P\u0159erov\u011b a zah\u00e1jena na ja\u0159e 1897. Parn\u00ed kotle, nap\u00e1jec\u00ed pumpy a parn\u00ed stroje dodala strojnick\u00e1 tov\u00e1rna M\u00e4erky, Bromovsk\u00fd a Schulz z Hradce Kr\u00e1lov\u00e9. Dynama, rozv\u00e1d\u011b\u010d, obloukov\u00e9 lampy syst\u00e9m Doubrava-Don\u00e1t a rozvodnou s\u00ed\u0165 dodala a provedla firma Bartelmus, Don\u00e1t a spol., elektrotechnick\u00e1 tov\u00e1rna v Brn\u011b, v\u0161e za pau\u0161\u00e1ln\u00ed obnos 92 817 zl. 87 kr"
             },
             "geometry": {
                 "coordinates": [
@@ -594,10 +1282,10 @@
             "properties": {
                 "icon": "industry",
                 "name": "Tu\u0161imice I",
-                "place": "v obci\u00a0Tu\u0161imice\u00a0v\u00a0okrese Chomutov",
+                "place": "Tu\u0161imice",
                 "years_in_service": "1964-1998",
                 "power": "6x110, odstaveno v r\u00e1mci utlumov\u00e9ho programu",
-                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarny-tusimice-58175",
                 "sources2": "",
                 "type": "hn\u011bdouheln\u00e1",
                 "owner": "\u010dez a.s.",
@@ -607,7 +1295,8 @@
                 "description3": "",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -622,10 +1311,10 @@
             "properties": {
                 "icon": "industry",
                 "name": "Tu\u0161imice II",
-                "place": "v obci\u00a0Tu\u0161imice\u00a0v\u00a0okrese Chomutov",
+                "place": "Tu\u0161imice",
                 "years_in_service": "1975-sou\u010dasnost",
                 "power": "4x200",
-                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarny-tusimice-58175",
                 "sources2": "",
                 "type": "hn\u011bdouheln\u00e1",
                 "owner": "\u010dez a.s.",
@@ -635,7 +1324,8 @@
                 "description3": "Pod veden\u00edm gener\u00e1ln\u00edho dodavatele \u0160KODA PRAHA Invest do\u0161lo k\u00a0v\u00fdm\u011bn\u011b \u010dty\u0159 p\u016fvodn\u00edch kotl\u016f, rekonstrukci elektroodlu\u010dova\u010d\u016f, vybudov\u00e1n\u00ed nov\u00e9ho ods\u00ed\u0159en\u00ed a\u00a0rekonstrukci vodn\u00edho hospod\u00e1\u0159stv\u00ed elektr\u00e1rny. Na upraven\u00fdch turb\u00ednov\u00fdch stolic\u00edch jsou nyn\u00ed nainstalov\u00e1ny \u010dty\u0159i nov\u00e9 t\u0159\u00edt\u011blesov\u00e9 turb\u00edny, ka\u017ed\u00e1 o\u00a0v\u00fdkonu 200 MW. \u010cty\u0159i gener\u00e1tory pro strojovnu, komplexn\u00ed za\u0159\u00edzen\u00ed pro elektro\u010d\u00e1st a\u00a0syst\u00e9m automatizovan\u00e9ho \u0159\u00edzen\u00ed technologick\u00fdch proces\u016f dodala spole\u010dnost Siemens. Dosa\u017een\u00e9 parametry odpov\u00eddaj\u00ed hodnot\u00e1m p\u0159edepsan\u00fdm pro tzv. BAT (Best Available Technology, kter\u00e9 p\u0159edstavuj\u00ed sv\u011btov\u011b uzn\u00e1van\u00fd standard dosa\u017een\u00ed emisn\u00edch limit\u016f a\u00a0zv\u00fd\u0161en\u00ed \u00fa\u010dinnosti\u00a0 modernizovan\u00fdch zdroj\u016f.",
                 "description4": "",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -653,7 +1343,7 @@
                 "place": "z\u00e1padn\u00edm okraji severo\u010desk\u00e9 hn\u011bdouheln\u00e9 p\u00e1nve mezi Chomutovem a\u00a0Kl\u00e1\u0161tercem nad Oh\u0159\u00ed.",
                 "years_in_service": "1967-2020",
                 "power": "660, pak sn\u00ed\u017eeno na 4x110 v r\u00e1mci \u00fatlumov\u00e9ho programu",
-                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarny-prunerov-58176",
                 "sources2": "",
                 "type": "hn\u011bdouheln\u00e1",
                 "owner": "\u010dez a.s.",
@@ -663,7 +1353,8 @@
                 "description3": "Provoz Elektr\u00e1rny Prun\u00e9\u0159ov\u00a0I\u00a0byl ukon\u010den 30.\u00a0\u010dervna 2020. Firma \u010cEZ hodlala n\u00e1sledn\u011b vyu\u017e\u00edt are\u00e1l k\u00a0v\u00fdstavb\u011b paroplynov\u00e9ho cyklu, plynov\u00e9 kotelny, sol\u00e1rn\u00edho parku, bateriov\u00e9ho \u00falo\u017ei\u0161t\u011b \u010di jin\u00fdm zp\u016fsobem.[17]\u00a0Likvidace elektr\u00e1rny za\u010dala 13.\u00a0kv\u011btna 2022 zah\u00e1jen\u00edm demolice chladic\u00edch v\u011b\u017e\u00ed. Dv\u011b st\u011b metr\u016f vysok\u00fd kom\u00edn byl odst\u0159elen 23.\u00a0\u010dervna 2023.[18][19]\u00a0Odst\u0159el prob\u011bhl v\u00a010.56, p\u0159i\u010dem\u017e po\u010det minut symbolizuje 56 let existence elektr\u00e1rny.[20]",
                 "description4": "V devades\u00e1t\u00fdch letech byl v\u00fdkon EPRU I v r\u00e1mci \u00fatlumov\u00e9ho programu sn\u00ed\u017een o t\u0159etinu. V letech 1995 a 1996 byly ob\u011b elektr\u00e1rny vybaveny\u00a0odsi\u0159ovac\u00edm\u00a0za\u0159\u00edzen\u00edm pot\u00e9, kdy v d\u016fsledku nekontrolovateln\u00e9ho vypou\u0161t\u011bn\u00ed\u00a0oxid\u016f s\u00edry\u00a0do\u00a0ovzdu\u0161\u00ed\u00a0a n\u00e1sledn\u00fdch\u00a0kysel\u00fdch de\u0161\u0165\u016f\u00a0doch\u00e1zelo k rozs\u00e1hl\u00e9 likvidaci\u00a0lesn\u00edho\u00a0porostu p\u0159ilehl\u00fdch\u00a0Kru\u0161n\u00fdch hor. N\u00e1sledky t\u00e9to devastace\u00a0p\u0159\u00edrody\u00a0jsou patrn\u00e9 dodnes a n\u00e1vrat k norm\u00e1lu bude je\u0161t\u011b dlouh\u00fd proces. V evropsk\u00e9m \u017eeb\u0159\u00ed\u010dku sleduj\u00edc\u00edm nejvy\u0161\u0161\u00ed emise\u00a0oxidu uhli\u010dit\u00e9ho\u00a0elektr\u00e1ren ve vztahu k vyroben\u00e9mu mno\u017estv\u00ed elektrick\u00e9 energie skon\u010dily elektr\u00e1rny na dvan\u00e1ct\u00e9m m\u00edst\u011b (co do absolutn\u00edho objemu emis\u00ed CO2\u00a0je Prun\u00e9\u0159ov a\u017e na dvac\u00e1t\u00e9m m\u00edst\u011b v Evrop\u011b).[2]\u00a0V r\u00e1mci \u010cesk\u00e9 republiky jsou elektr\u00e1rny nejv\u011bt\u0161\u00edm zdrojem emis\u00ed oxidu uhli\u010dit\u00e9ho, v roce 2007 emitovaly 10,1 milion\u016f tun.",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -681,7 +1372,7 @@
                 "place": "z\u00e1padn\u00edm okraji severo\u010desk\u00e9 hn\u011bdouheln\u00e9 p\u00e1nve mezi Chomutovem a\u00a0Kl\u00e1\u0161tercem nad Oh\u0159\u00ed.",
                 "years_in_service": "1982-sou\u010dasnost",
                 "power": "1050, 3x250",
-                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarny-prunerov-58176",
                 "sources2": "",
                 "type": "hn\u011bdouheln\u00e1",
                 "owner": "\u010dez a.s.",
@@ -691,7 +1382,8 @@
                 "description3": "V\u00a0druh\u00e9m p\u0159\u00edpad\u011b realizovalo dod\u00e1vku \"na kl\u00ed\u010d\" konsorcium japonsk\u00fdch firem Mitsubishi Heavy Industries, Mitsubishi Corporation ve spolupr\u00e1ci se ZVU Hradec Kr\u00e1lov\u00e9, a. s. Odsi\u0159ovac\u00ed za\u0159\u00edzen\u00ed bylo uvedeno do provozu v\u00a0l\u00e9t\u011b roku 1996.",
                 "description4": "V devades\u00e1t\u00fdch letech byl v\u00fdkon EPRU I v r\u00e1mci \u00fatlumov\u00e9ho programu sn\u00ed\u017een o t\u0159etinu. V letech 1995 a 1996 byly ob\u011b elektr\u00e1rny vybaveny\u00a0odsi\u0159ovac\u00edm\u00a0za\u0159\u00edzen\u00edm pot\u00e9, kdy v d\u016fsledku nekontrolovateln\u00e9ho vypou\u0161t\u011bn\u00ed\u00a0oxid\u016f s\u00edry\u00a0do\u00a0ovzdu\u0161\u00ed\u00a0a n\u00e1sledn\u00fdch\u00a0kysel\u00fdch de\u0161\u0165\u016f\u00a0doch\u00e1zelo k rozs\u00e1hl\u00e9 likvidaci\u00a0lesn\u00edho\u00a0porostu p\u0159ilehl\u00fdch\u00a0Kru\u0161n\u00fdch hor. N\u00e1sledky t\u00e9to devastace\u00a0p\u0159\u00edrody\u00a0jsou patrn\u00e9 dodnes a n\u00e1vrat k norm\u00e1lu bude je\u0161t\u011b dlouh\u00fd proces. V evropsk\u00e9m \u017eeb\u0159\u00ed\u010dku sleduj\u00edc\u00edm nejvy\u0161\u0161\u00ed emise\u00a0oxidu uhli\u010dit\u00e9ho\u00a0elektr\u00e1ren ve vztahu k vyroben\u00e9mu mno\u017estv\u00ed elektrick\u00e9 energie skon\u010dily elektr\u00e1rny na dvan\u00e1ct\u00e9m m\u00edst\u011b (co do absolutn\u00edho objemu emis\u00ed CO2\u00a0je Prun\u00e9\u0159ov a\u017e na dvac\u00e1t\u00e9m m\u00edst\u011b v Evrop\u011b).[2]\u00a0V r\u00e1mci \u010cesk\u00e9 republiky jsou elektr\u00e1rny nejv\u011bt\u0161\u00edm zdrojem emis\u00ed oxidu uhli\u010dit\u00e9ho, v roce 2007 emitovaly 10,1 milion\u016f tun.",
                 "description5": "",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [
@@ -709,7 +1401,7 @@
                 "place": "u\u00a0Ostravy, v\u00a0t\u011bsn\u00e9 bl\u00edzkosti polsk\u00fdch hranic a\u00a0hned vedle hlavn\u00ed \u017eelezni\u010dn\u00ed trat\u011b Bohum\u00edn\u2013\u017dilina",
                 "years_in_service": "1976-sou\u010dasnost",
                 "power": "600 (d\u0159\u00edve 800) - sn\u00ed\u017eeno o jeden blok 2020,  v\u017edy 200MW/blok",
-                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarna-detmarovice-58185",
                 "sources2": "",
                 "type": "\u010dernouheln\u00e1",
                 "owner": "\u010dez a.s.",
@@ -719,7 +1411,8 @@
                 "description3": "Elektr\u00e1rna spaluje \u010dern\u00e9 uhl\u00ed s\u00a0pr\u016fm\u011brnou v\u00fdh\u0159evnost\u00ed 22 MJ/kg a\u00a0obsahem s\u00edry pod 1\u00a0%. Pou\u017e\u00edv\u00e1 se uhl\u00ed z\u00a0Ostravsko-karvinsk\u00e9 p\u00e1nve, ale i\u00a0z\u00a0dal\u0161\u00edch t\u011b\u017eebn\u00edch lokalit. V\u00a0ED\u011a jsou instalov\u00e1ny 3 v\u00fdrobn\u00ed bloky, ka\u017ed\u00fd o\u00a0elektrick\u00e9m v\u00fdkonu 200 MW. V\u00fdkon t\u011bchto blok\u016f je distribuov\u00e1n do okoln\u00edch rozvoden velmi vysok\u00e9ho nap\u011bt\u00ed. Pr\u016fm\u011brn\u00e1 denn\u00ed spot\u0159eba paliva na jeden blok je cca 1600 tun uhl\u00ed, co\u017e p\u0159edstavuje cca 32 \u017eelezni\u010dn\u00edch vagon\u016f. Uhl\u00ed se po rozemlet\u00ed na velmi jemnou frakci spaluje v\u00a0celkem 4 kotl\u00edch o\u00a0v\u00fdkonu 650 t p\u00e1ry/hod. Kotle jsou z\u00a0produkce podniku V\u00edtkovice, jsou pr\u016ftla\u010dn\u00e9, dvoutahov\u00e9, s\u00a0granula\u010dn\u00ed spalovac\u00ed komorou, \u00fa\u010dinnost se pohybuje okolo 90\u00a0%, nejvy\u0161\u0161\u00ed teplota v\u00a0kotli je 1400 stup\u0148\u016f Celsia. Ka\u017ed\u00fd kotel m\u00e1 mlec\u00ed za\u0159\u00edzen\u00ed, kter\u00e9\u00a0se skl\u00e1d\u00e1 ze \u010dty\u0159 mlec\u00edch okruh\u016f s\u00a0krou\u017ekov\u00fdmi ml\u00fdny o\u00a0v\u00fdkonu 36 t/h. Kotle se \"naj\u00ed\u017ed\u011bj\u00ed\" zemn\u00edm plynem, k\u00a0zap\u00e1len\u00ed plynov\u00fdch\u00a0ho\u0159\u00e1k\u016f se pou\u017e\u00edv\u00e1 elektrick\u00e1 jiskra. V\u00a0zadn\u00ed \u010d\u00e1sti kotle na samostatn\u00e9 konstrukci jsou instalov\u00e1ny regenera\u010dn\u00ed oh\u0159\u00edv\u00e1ky typu Ljungstrom. Ka\u017ed\u00fd kotel je opat\u0159en \u010dty\u0159mi elektrostatick\u00fdmi odlu\u010dova\u010di typu Lurgi a\u00a0dv\u011bma kou\u0159ov\u00fdmi ventil\u00e1tory. Za\u0159\u00edzen\u00ed ods\u00ed\u0159en\u00ed je dod\u00e1vkou firmy Mitsubishi. Sest\u00e1v\u00e1 ze dvou absorb\u00e9r\u016f (v\u017edy jeden pro dva v\u00fdrobn\u00ed bloky). V\u00a0provozu je od b\u0159ezna 1998.",
                 "description4": "Elektr\u00e1rna D\u011btmarovice krom\u011b v\u00fdroby elektrick\u00e9 energie produkuje i\u00a0teplo. Spole\u010dn\u00e1 v\u00fdroba elektrick\u00e9 energie a\u00a0tepla v\u00a0jednom cyklu, tzv. kogenerace, sni\u017euje spot\u0159ebu paliva na vyrobenou jednotku energie a\u00a0t\u00edm \u0161et\u0159\u00ed i\u00a0\u017eivotn\u00ed prost\u0159ed\u00ed.\u00a0Dod\u00e1vky tepla z\u00a0elektr\u00e1rny do Orlov\u00e9 a\u00a0Bohum\u00edna zaji\u0161\u0165uje spole\u010dnost\u00a0\u010cEZ Tepl\u00e1rensk\u00e1, a.s.",
                 "description5": "Na z\u00e1klad\u011b v\u00edt\u011bzstv\u00ed ve ve\u0159ejn\u00e9 sout\u011b\u017ei za\u010dala v\u00a0kv\u011btnu 2009 v\u00fdstavba p\u0159ivad\u011b\u010de tepla do Bohum\u00edna. Horkovodem bude proudit teplo z\u00a0elektr\u00e1rny D\u011btmarovice do Bohum\u00edna po dobu minim\u00e1ln\u011b dvaceti let. Prvn\u00ed dod\u00e1vky za\u010daly na podzim 2010. N\u00e1klady na v\u00fdstavbu ve v\u00fd\u0161i 500 milion\u016f korun hradila Skupina \u010cEZ.",
-                "description6": "Ze spalovac\u00edch proces\u016f prob\u00edhaj\u00edc\u00edch p\u0159i v\u00fdrob\u011b elekt\u0159iny a\u00a0tepla\u00a0vznikaj\u00ed vedlej\u0161\u00ed energetick\u00e9 produkty, kter\u00e9 se st\u00e1vaj\u00ed za p\u0159edpokladu spln\u011bn\u00ed technick\u00fdch a\u00a0z\u00e1konn\u00fdch podm\u00ednek surovinou pro dal\u0161\u00ed zpracov\u00e1n\u00ed a\u00a0v\u00fdrobu."
+                "description6": "Ze spalovac\u00edch proces\u016f prob\u00edhaj\u00edc\u00edch p\u0159i v\u00fdrob\u011b elekt\u0159iny a\u00a0tepla\u00a0vznikaj\u00ed vedlej\u0161\u00ed energetick\u00e9 produkty, kter\u00e9 se st\u00e1vaj\u00ed za p\u0159edpokladu spln\u011bn\u00ed technick\u00fdch a\u00a0z\u00e1konn\u00fdch podm\u00ednek surovinou pro dal\u0161\u00ed zpracov\u00e1n\u00ed a\u00a0v\u00fdrobu.",
+                "description7": "Elektr\u00e1rna D\u011btmarovice vyprodukuje ro\u010dn\u011b cca 250 000 tun VEP.\u00a0 Z\u00a0tohoto mno\u017estv\u00ed je 90\u00a0% popelovin, kter\u00e9 jsou certifikov\u00e1ny a\u00a0vyu\u017e\u00edv\u00e1ny ve stavebnictv\u00ed p\u0159edev\u0161\u00edm jako p\u0159\u00edsada do cementu, betonu \u010di p\u00f3robetonu. Zbyl\u00fdch 10\u00a0% p\u0159edstavuje energos\u00e1drovec, kter\u00fd je produktem ods\u00ed\u0159en\u00ed z\u00a0mokr\u00e9 v\u00e1pencov\u00e9 vyp\u00edrky. V\u00a0Elektr\u00e1rn\u011b D\u011btmarovice je vyu\u017e\u00edv\u00e1n spolu s\u00a0\u010d\u00e1st\u00ed popelovin k\u00a0rekultiva\u010dn\u00edm \u00fa\u010del\u016fm."
             },
             "geometry": {
                 "coordinates": [
@@ -737,7 +1430,7 @@
                 "place": "\u00fapat\u00ed v\u00fdchodn\u00ed \u010d\u00e1sti Kru\u0161n\u00fdch hor, mezi l\u00e1ze\u0148sk\u00fdmi m\u011bsty Teplice a\u00a0B\u00edlina",
                 "years_in_service": "1969-sou\u010dasnost",
                 "power": "5bl - 640, nyn\u00ed 660",
-                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr",
+                "sources1": "https://www.cez.cz/cs/o-cez/vyrobni-zdroje/uhelne-elektrarny-a-teplarny/uhelne-elektrarny-a-teplarny-cez-v-cr/elektrarna-ledvice-58177",
                 "sources2": "",
                 "type": "hn\u011bdouheln\u00e1",
                 "owner": "\u010dez a.s.",
@@ -747,7 +1440,8 @@
                 "description3": "Zprovozn\u011bn\u00edm Nov\u00e9ho zdroje zavr\u0161ila Skupina \u010cEZ rozs\u00e1hl\u00fd ekologick\u00fd program zapo\u010dat\u00fd ji\u017e v\u00a0roce 1992. Tehdy se jednalo o\u00a01. vlnu ekologizace, kter\u00e1 do konce roku 1998 p\u0159inesla ods\u00ed\u0159en\u00ed a\u00a0denitrifikaci v\u0161ech uheln\u00fdch v\u00fdrobn\u00edch zdroj\u016f spole\u010dnosti v\u00a0\u010cesk\u00e9 republice, co\u017e znamenalo sn\u00ed\u017een\u00ed emis\u00ed oxid\u016f s\u00edry a\u00a0pop\u00edlku o\u00a090 a\u00a0oxidu dus\u00edku o\u00a050 procent. Druh\u00e1 vlna ekologizace v\u00a0tomto trendu v\u00a0souvislosti se zp\u0159\u00edsn\u011bn\u00edm limit\u016f v\u00a0r\u00e1mci evropsk\u00e9 legislativy pokra\u010dovala sn\u00ed\u017een\u00edm ve\u0161ker\u00fdch emis\u00ed o\u00a0dal\u0161\u00edch cca 50 procent, p\u0159i\u010dem\u017e krom\u011b v\u00fdstavby Nov\u00e9ho zdroje v\u00a0Ledvic\u00edch obn\u00e1\u0161ela rovn\u011b\u017e komplexn\u00ed modernizaci elektr\u00e1ren Tu\u0161imice II a\u00a0Prun\u00e9\u0159ov II a\u00a0realizaci nov\u00e9ho Paroplynov\u00e9ho cyklu Po\u010derady.",
                 "description4": "Hlavn\u00edm zdrojem vody pot\u0159ebn\u00e9 pro v\u00fdrobu je \u0159eka Labe. Voda je dod\u00e1v\u00e1na \u010derpac\u00ed stanic\u00ed v\u00a0Doln\u00edch Z\u00e1lezlech a\u00a0do elektr\u00e1rny je dopravov\u00e1na prost\u0159ednictv\u00edm p\u0159ivad\u011b\u010de dlouh\u00e9ho cca 25 km. Jedn\u00e1 se o\u00a0unik\u00e1tn\u00ed a\u00a0velmi spolehlivou technologii postavenou ji\u017e v\u00a0pr\u016fb\u011bhu 2.sv\u011btov\u00e9 v\u00e1lky. Jako z\u00e1lo\u017en\u00ed zdroj slou\u017e\u00ed n\u00e1dr\u017e V\u0161echlapy z\u00a060.let minul\u00e9ho stolet\u00ed. Filtrace a\u00a0\u00faprava vody demineralizac\u00ed potom prob\u00edh\u00e1 v\u00a0modern\u00ed chemick\u00e9 \u00fapravn\u011b vody postaven\u00e9 v\u00a0r\u00e1mci v\u00fdstavby bloku 6.",
                 "description5": "Nov\u00fd zdroj Elektr\u00e1rny Ledvice je i\u00a0zaj\u00edmav\u00fdm c\u00edlem pro p\u0159\u00edznivce industri\u00e1ln\u00ed turistiky a\u00a0rozhleden. Jeho 140 m vysok\u00e1 kotelna je v\u00a0sou\u010dasn\u00e9 dob\u011b nejvy\u0161\u0161\u00ed pr\u016fmyslovou stavbou na \u00fazem\u00ed \u010ceska. Dv\u011b podp\u016frn\u00e9 v\u011b\u017ee kotelny, takzvan\u00e1 ledvick\u00e1 dvoj\u010data, jsou je\u0161t\u011b o\u00a0n\u011bco vy\u0161\u0161\u00ed. Na vrcholu severn\u00ed v\u011b\u017ee je proto prosklen\u00e1 rozhledna s\u00a0mo\u017enost\u00ed vystoupit na ochoz ve v\u00fd\u0161ce 140 metr\u016f. Na ofici\u00e1ln\u011b nejvy\u0161\u0161\u00ed rozhlednu v\u00a0\u010cR se lze dostat v\u00a0r\u00e1mci exkurze po p\u0159edchoz\u00ed prohl\u00eddce Informa\u010dn\u00edho centra klasick\u00e9 energetiky, kter\u00e9 je rovn\u011b\u017e jedin\u00e9 sv\u00e9ho druhu v\u00a0republice. Infocentrum nab\u00edz\u00ed \u0159adu interaktivn\u00edch z\u00e1\u017eitk\u016f, v\u010detn\u011b 3D filmu o\u00a0historick\u00e9m v\u00fdvoji Zem\u011b a\u00a0tud\u00ed\u017e i\u00a0v\u00fdrob\u011b elekt\u0159iny, on-line m\u011b\u0159en\u00ed fotosynt\u00e9zy \u017eiv\u00e9ho stromu nebo detailn\u00edch popis\u016f technologie nov\u00e9ho uheln\u00e9ho elektr\u00e1rensk\u00e9ho bloku s\u00a0mo\u017enost\u00ed virtu\u00e1ln\u00edho nahl\u00e9dnut\u00ed do jednotliv\u00fdch provoz\u016f.",
-                "description6": ""
+                "description6": "",
+                "description7": ""
             },
             "geometry": {
                 "coordinates": [

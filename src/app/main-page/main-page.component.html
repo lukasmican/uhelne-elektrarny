@@ -68,33 +68,17 @@
                                 <p>Výkon: {{powerplant_details.power}}</p>
                                 <p>Druh: {{powerplant_details.type}}</p>
                                 <p>Vlastník: {{powerplant_details.owner}}</p>
-                                <p>
-                                    {{ powerplant_details.description_short }}
-                                </p>
-                                <p>
-                                    {{ powerplant_details.description1 }}
-                                </p>
-                                <p>
-                                    {{ powerplant_details.description2 }}
-                                </p>
-                                <p>
-                                    {{ powerplant_details.description3 }}
-                                </p>
-                                <p>
-                                    {{ powerplant_details.description4 }}
-                                </p>
-                                <p>
-                                    {{ powerplant_details.description5 }}
-                                </p>
-                                <p>
-                                    {{ powerplant_details.description6 }}
-                                </p>
+                                <div [innerHtml]="powerplant_details.description_short"></div>
+                                <div [innerHtml]="powerplant_details.description1"></div>
+                                <div [innerHtml]="powerplant_details.description2"></div>
+                                <div [innerHtml]="powerplant_details.description3"></div>
+                                <div [innerHtml]="powerplant_details.description4"></div>
+                                <div [innerHtml]="powerplant_details.description5"></div>
+                                <div [innerHtml]="powerplant_details.description6"></div>
                                 <div>
                                     <h5>Zdroje:</h5>
-                                    <p>
-                                        {{powerplant_details.sources1}}<br>
-                                        {{powerplant_details.sources2}}
-                                    </p>
+                                    <div [innerHtml]="powerplant_details.sources1"></div>
+                                    <div [innerHtml]="powerplant_details.sources2"></div>
                                 </div>
                             </div>
                             <div class="images-wrapper">
