@@ -5,7 +5,7 @@
             <mat-list class="menu-container">
                 <div mat-subheader class="menu-headline">Elektrárny</div>
 
-                <mat-list-item *ngFor="let powerplant of powerplants">
+                <mat-list-item *ngFor="let powerplant of powerplants_sorted">
                     <div matListItemTitle (click)=" isMobile? drawer.close():0; mapShowPowerPlant(powerplant)">
                         <a>
                             <button mat-button class="menu-item">
@@ -42,6 +42,7 @@
 
 
             <div class="map-container">
+                <!-- <mgl-map #mapa [style]="'assets/slepa_mapa_osm.json'" [zoom]="[6.4]" [center]="[15.5, 49.8]" -->
                 <mgl-map #mapa [style]="'assets/slepa_mapa_osm_prod.json'" [zoom]="[6.4]" [center]="[15.5, 49.8]"
                     (mapLoad)="mapLoaded($event)">
                 </mgl-map>
@@ -61,29 +62,7 @@
                     </div>
                     <mat-card-content class="detail-card-content-wrapper">
                         <div *ngIf="powerplant_details != null" class="detail-card-content">
-                            <div class="detail-text-wrapper">
-                                <h2>{{powerplant_details.name}}</h2>
-                                <p><b>Místo: {{powerplant_details.place}}</b></p>
-                                <p>Roky v provozu: {{powerplant_details.years_in_service}}</p>
-                                <p>Výkon: {{powerplant_details.power}}</p>
-                                <p>Druh: {{powerplant_details.type}}</p>
-                                <p>Vlastník: {{powerplant_details.owner}}</p>
-                                <div [innerHtml]="powerplant_details.description_short"></div>
-                                <div [innerHtml]="powerplant_details.description1"></div>
-                                <div [innerHtml]="powerplant_details.description2"></div>
-                                <div [innerHtml]="powerplant_details.description3"></div>
-                                <div [innerHtml]="powerplant_details.description4"></div>
-                                <div [innerHtml]="powerplant_details.description5"></div>
-                                <div [innerHtml]="powerplant_details.description6"></div>
-                                <div>
-                                    <h5>Zdroje:</h5>
-                                    <div [innerHtml]="powerplant_details.sources1"></div>
-                                    <div [innerHtml]="powerplant_details.sources2"></div>
-                                </div>
-                            </div>
-                            <div class="images-wrapper">
-                                <img src="assets/img/ceske_budejovice1.jpg" style="width: 100%;"> 
-                            </div>
+                            <app-detail-content [powerplant_details]="powerplant_details" (link_action)="mapShowPowerPlantByID($event)"></app-detail-content>
                         </div>
                         <div *ngIf="powerplant_details == null" class="no-selected-powerplant-info">
 

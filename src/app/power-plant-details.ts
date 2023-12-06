@@ -1,5 +1,6 @@
 export class PowerPlantDetails {
     icon = "industry";
+    entry_id = 0;
     name = "";
     place = "";
     years_in_service = "";

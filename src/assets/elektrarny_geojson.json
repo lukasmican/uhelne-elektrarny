@@ -5,6 +5,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 1,
                 "name": "Rychnov na Falknovsku",
                 "place": "Sokolov",
                 "years_in_service": "1907-1968",
@@ -34,6 +35,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 2,
                 "name": "Mari\u00e1nsk\u00e9 L\u00e1zn\u011b",
                 "place": "Mari\u00e1nsk\u00e9 l\u00e1zn\u011b",
                 "years_in_service": "1888-1945",
@@ -63,6 +65,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 3,
                 "name": "Kraslice",
                 "place": "Kraslice",
                 "years_in_service": "1903-1945",
@@ -92,6 +95,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 4,
                 "name": "Horn\u00ed J\u00ed\u0159et\u00edn",
                 "place": "Horn\u00ed J\u00ed\u0159et\u00edn",
                 "years_in_service": "1908-1945",
@@ -121,6 +125,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 6,
                 "name": "Opava",
                 "place": "Opava",
                 "years_in_service": "1904-19XX",
@@ -150,6 +155,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 7,
                 "name": "Mydlovary",
                 "place": "Mydlovary",
                 "years_in_service": "1926-1998",
@@ -179,6 +185,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 8,
                 "name": "\u010cesko Bud\u011bjovick\u00e1",
                 "place": "v Novohradsk\u00e9 ulici",
                 "years_in_service": "1920-1948",
@@ -208,6 +215,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 9,
                 "name": "Mari\u00e1nsk\u00e9 Hory",
                 "place": "Ign\u00e1c (j\u00e1ma)",
                 "years_in_service": "1913-ted",
@@ -237,6 +245,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 10,
                 "name": "Zb\u016fch",
                 "place": "d\u016fl, sudety",
                 "years_in_service": "1914-1966",
@@ -266,6 +275,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 11,
                 "name": "Such\u00e1",
                 "place": "Obec Such\u00e1 u Polsk\u00fdch hranic",
                 "years_in_service": "1916-????",
@@ -295,6 +305,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 14,
                 "name": "Komo\u0159any I",
                 "place": "Most-Komo\u0159any, ul. Tepl\u00e1rensk\u00e1",
                 "years_in_service": "1951-sou\u010dasnost",
@@ -324,6 +335,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 15,
                 "name": "Komo\u0159any II",
                 "place": "Most-Komo\u0159any, ul. Tepl\u00e1rensk\u00e1",
                 "years_in_service": "1958-sou\u010dastnost",
@@ -343,7 +355,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    13.575166666666666,
+                    13.575666666666667,
                     50.52280555555556
                 ],
                 "type": "Point"
@@ -353,6 +365,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 16,
                 "name": "Hodon\u00edn",
                 "place": "Hodon\u00edn, ul. elektr\u00e1rensk\u00e1",
                 "years_in_service": "1951-sou\u010dasnost",
@@ -382,6 +395,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 17,
                 "name": "Tisov\u00e1 I",
                 "place": "Sokolov, Tisov\u00e1 2",
                 "years_in_service": "1958-sou\u010dastnost",
@@ -411,6 +425,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 18,
                 "name": "Tisov\u00e1 II",
                 "place": "Sokolov, Tisov\u00e1 2",
                 "years_in_service": "1963-sou\u010dastnost",
@@ -430,7 +445,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    12.6073738,
+                    12.6078738,
                     50.1500848
                 ],
                 "type": "Point"
@@ -440,6 +455,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 19,
                 "name": "Po\u010derady I",
                 "place": "Obec Po\u010derady",
                 "years_in_service": "1970-sou\u010dastnost",
@@ -469,6 +485,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 20,
                 "name": "Plze\u0148",
                 "place": "p\u016fvodn\u00ed pivovarsk\u00fd park",
                 "years_in_service": "1907-1986",
@@ -498,6 +515,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 21,
                 "name": "P\u0159espoln\u00ed elektr\u00e1rna Franze Haniky",
                 "place": "Plan\u00e1 u Mari\u00e1nsk\u00fdch L\u00e1zn\u00ed",
                 "years_in_service": "1912-???",
@@ -527,6 +545,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 22,
                 "name": "Trmice",
                 "place": "Trmice",
                 "years_in_service": "1916-1959",
@@ -556,6 +575,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 23,
                 "name": "Oslavany",
                 "place": "Oslavany",
                 "years_in_service": "1913-1993",
@@ -585,6 +605,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 24,
                 "name": "Erv\u011bnice I",
                 "place": "Komo\u0159any u Mostu",
                 "years_in_service": "1926-1965",
@@ -614,6 +635,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 25,
                 "name": "Erv\u011bnice II",
                 "place": "Komo\u0159any u Mostu",
                 "years_in_service": "1948-1980",
@@ -633,7 +655,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    13.544864,
+                    13.545364000000001,
                     50.5271203085051
                 ],
                 "type": "Point"
@@ -643,6 +665,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 26,
                 "name": "Po\u0159\u00ed\u010d\u00ed I",
                 "place": "Trutnov",
                 "years_in_service": "1914-1957",
@@ -672,6 +695,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 27,
                 "name": "Po\u0159\u00ed\u010d\u00ed II",
                 "place": "Trutnov",
                 "years_in_service": "1957-sou\u010dastnost",
@@ -701,6 +725,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 28,
                 "name": "Jablonec",
                 "place": "Jablonec nad Nisou",
                 "years_in_service": "1911-sedmdes\u00e1t\u00e1 l\u00e9ta",
@@ -730,6 +755,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 29,
                 "name": "Most",
                 "place": "Most",
                 "years_in_service": "1897-???",
@@ -759,6 +785,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 30,
                 "name": "Liberec",
                 "place": "Liberec",
                 "years_in_service": "1906-1922",
@@ -788,6 +815,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 31,
                 "name": "\u00dast\u00ed nad Labem",
                 "place": "na \u0160pit\u00e1lk\u00e9m n\u00e1m\u011bst\u00ed",
                 "years_in_service": "1899-1922",
@@ -817,6 +845,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 32,
                 "name": "Hole\u0161ovick\u00e1 elektr\u00e1rna",
                 "place": "Praha - Hole\u0161ovice",
                 "years_in_service": "1900-",
@@ -846,6 +875,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 33,
                 "name": "Karl\u00edn",
                 "place": "Praha - Karl\u00edn",
                 "years_in_service": "1894-1939",
@@ -875,6 +905,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 34,
                 "name": "Pardubice",
                 "place": "ulice Arno\u0161ta z Pardubic",
                 "years_in_service": "1904",
@@ -884,9 +915,9 @@
                 "type": "\u010derno uheln\u00e1",
                 "owner": "Franti\u0161ek K\u0159i\u017e\u00edk -> m\u011bsto Pardubice-> \u010cEZ",
                 "description_short": "Postavena firmou Fr. K\u0159i\u017e\u00edka, uvdena do provozu roku 1905. V roce 1911 ji vykupoupilo m\u011bsto Pardubice a st\u00e1v\u00e1 se m\u011bstskou elektr\u00e1rnou, tedy slou\u017e\u00ed pro elektrifikaci Pardubic. Po vzniku \u010cSR a p\u0159ijet\u00ed elektrifika\u010dn\u00edho z\u00e1kona \u010d. 438/1919 Sb. a na\u0159. R\u010cS se st\u00e1v\u00e1 elektr\u00e1rnou svazovou z\u00e1sobuj\u00edc\u00ed \u0161irok\u00e9 okol\u00ed. Postupn\u011b (ve 20. a 30. letech proch\u00e1z\u00ed elektr\u00e1rna modernizac\u00ed. Po druh\u00e9 sv\u011btov\u00e9 v\u00e1lce byla pou\u017e\u00edv\u00e1na jako tepl\u00e1rna a p\u0159estav\u011bna na spalov\u00e1n\u00ed mazutu, v souvislosti s v\u00fdrobou v Paramu (mazut odpadn\u00ed produkt).",
-                "description1": "Elktr\u00e1rna byla vybavena 8 parn\u00edmi kotly kter\u00e9 z\u00e1sobovali parou 3 turb\u00edny s v\u00fdkonem v sou\u010dtu 10680 (7964 kW) a 3 parn\u00ed stroje o v\u00fdkonech 2x200hp (149 kW) a 1x400hp (298 kW). Elekt\u0159inu vyr\u00e1b\u011bla 3 dynama o v\u00fdkonu 2x100 kW a 1x270 kW rozvod elkt\u0159iny byl tedy stejnosm\u011brn\u00fd. V letech 1912 a 1916 byly osazeny dva turogener\u00e1tory o v\u00fdkonech 1000 a 1100 kW (st\u0159\u00eddav\u00e9), p\u0159i modernizaci ve 20. letech p\u0159ibyl v roce 1924 turbogener\u00e1tor o v\u00fdkonu 5 MW. P\u0159ibyly tak\u00e9 sychronn\u00ed konvertory pro transformaci stejnosm\u011brn\u00e9ho proudu z dynam na st\u0159\u00eddav\u00fd do tehdej\u0161\u00edho rozvodu. V roce 1937 elektr\u00e1rn\u011b p\u0159ibyla tepl\u00e1rensk\u00e1 funkce a z\u00e1sobovala telep \u010d\u00e1st Parbubic. Po druh\u00e9 sv\u011btov\u00e9 v\u00e1lce p\u0159e\u0161la pln\u011b na tepl\u00e1renskou funkci, kterou plnila do roku 2001. Z\u00e1sobov\u00e1n\u00ed Pardubic teplem je realizov\u00e1no v elektr\u00e1rny/tepl\u00e1rny Opatovice.",
+                "description1": "Elektr\u00e1rna byla vybavena 8 parn\u00edmi kotly kter\u00e9 z\u00e1sobovali parou 3 turb\u00edny s v\u00fdkonem v sou\u010dtu 10680 (7964 kW) a 3 parn\u00ed stroje o v\u00fdkonech 2x200hp (149 kW) a 1x400hp (298 kW). Elekt\u0159inu vyr\u00e1b\u011bla 3 dynama o v\u00fdkonu 2x100 kW a 1x270 kW rozvod elkt\u0159iny byl tedy stejnosm\u011brn\u00fd. V letech 1912 a 1916 byly osazeny dva turogener\u00e1tory o v\u00fdkonech 1000 a 1100 kW (st\u0159\u00eddav\u00e9), p\u0159i modernizaci ve 20. letech p\u0159ibyl v roce 1924 turbogener\u00e1tor o v\u00fdkonu 5 MW. P\u0159ibyly tak\u00e9 sychronn\u00ed konvertory pro transformaci stejnosm\u011brn\u00e9ho proudu z dynam na st\u0159\u00eddav\u00fd do tehdej\u0161\u00edho rozvodu. V roce 1937 elektr\u00e1rn\u011b p\u0159ibyla tepl\u00e1rensk\u00e1 funkce a z\u00e1sobovala telep \u010d\u00e1st Parbubic. Po druh\u00e9 sv\u011btov\u00e9 v\u00e1lce p\u0159e\u0161la pln\u011b na tepl\u00e1renskou funkci, kterou plnila do roku 2001. Z\u00e1sobov\u00e1n\u00ed Pardubic teplem je realizov\u00e1no v elektr\u00e1rny/tepl\u00e1rny <span class=\"description-link 38\">Opatovice</span>.",
                 "description2": "V sou\u010dasn\u00e9 dob\u011b v are\u00e1liu s\u00eddl\u00ed n\u011bkolik spole\u010dnost\u00ed. V b\u00fdvyl\u00e9 elktr\u00e1rn\u011b se nach\u00e1z\u00ed plynov\u00fd kotel a slou\u017e\u00ed jako z\u00e1lo\u017en\u00ed zdroj pro vyt\u00e1p\u011bn\u00ed Pardubic. Je pod spr\u00e1vou spole\u010dnosti \u010cEZ. ",
-                "description3": "V odstavci jsem ozna\u010dil slovo mod\u0159e, bylo by tam dobr\u00e9 ud\u011blat odkaz na Opatovice",
+                "description3": "",
                 "description4": "",
                 "description5": "",
                 "description6": "",
@@ -904,6 +935,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 35,
                 "name": "Kol\u00edn, p\u016fvodn\u00ed",
                 "place": "K\u0159i\u017e\u00edkova, lev\u00fd b\u0159eh Labe",
                 "years_in_service": "1916-193x",
@@ -912,8 +944,8 @@
                 "sources2": "",
                 "type": "Uhl\u00ed",
                 "owner": "Franti\u0161ek K\u0159i\u017e\u00edk -> ESSO",
-                "description_short": "Elektr\u00e1rna byla v Kol\u00edn\u011b postavena pro nap\u00e1jen\u00ed obloukov\u00fdch lamp nach\u00e1zej\u00edc\u00edch se nejprve v prostor\u00e1ch Horsk\u00e9ho cukrovaru, aby nahradila malou podnikovou elktr\u00e1rni\u010dku. B\\la postavena firmou Franti\u0161ka K\u0159i\u017e\u00edka v letech 1911-1912 v prostoru mezi ulicemi  Pod Hroby a Zengrova (dnesn\u00ed pr\u016fmyslov\u00e1 z\u00f3na). Na elektr\u00e1rnu bylo postupn\u011b p\u0159ipojeno 37 obc\u00ed. V roce 1916 prodal Fr, K\u0159i\u017e\u00edk elektr\u00e1rnu spole\u010dnosti ESSO (Elektr\u00e1rensk\u00fd svaz st\u0159edolabsk\u00fdch okres\u016f), kter\u00e1 ji v letech 1916-18 zmodernizovala. Ve 20. letech zv\u00fd\u0161ila spot\u0159eba el. energie na tolik, \u017ee ji\u017e tato elktr\u00e1rna v\u00fdkonem nesta\u010dila a tak v letech 1930-32byal vybudov\u00e1na spole\u010dnost\u00ed ESSO nov\u00e1 elktr\u00e1rna na druh\u00e9m b\u0159ehu Labe.",
-                "description1": "V odstavci jsem ozna\u010dil slovo mod\u0159e, bylo by tam dobr\u00e9 ud\u011blat odkaz na Kol\u00edn, sou\u010dasn\u00e1",
+                "description_short": "Elektr\u00e1rna byla v Kol\u00edn\u011b postavena pro nap\u00e1jen\u00ed obloukov\u00fdch lamp nach\u00e1zej\u00edc\u00edch se nejprve v prostor\u00e1ch Horsk\u00e9ho cukrovaru, aby nahradila malou podnikovou elktr\u00e1rni\u010dku. B\\la postavena firmou Franti\u0161ka K\u0159i\u017e\u00edka v letech 1911-1912 v prostoru mezi ulicemi  Pod Hroby a Zengrova (dnesn\u00ed pr\u016fmyslov\u00e1 z\u00f3na). Na elektr\u00e1rnu bylo postupn\u011b p\u0159ipojeno 37 obc\u00ed. V roce 1916 prodal Fr, K\u0159i\u017e\u00edk elektr\u00e1rnu spole\u010dnosti ESSO (Elektr\u00e1rensk\u00fd svaz st\u0159edolabsk\u00fdch okres\u016f), kter\u00e1 ji v letech 1916-18 zmodernizovala. Ve 20. letech zv\u00fd\u0161ila spot\u0159eba el. energie na tolik, \u017ee ji\u017e tato elktr\u00e1rna v\u00fdkonem nesta\u010dila a tak v letech 1930-32byal vybudov\u00e1na spole\u010dnost\u00ed ESSO <span class=\"description-link 36\">nov\u00e1 elektr\u00e1rna</span> na druh\u00e9m b\u0159ehu Labe.",
+                "description1": "",
                 "description2": "",
                 "description3": "",
                 "description4": "",
@@ -933,6 +965,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 36,
                 "name": "Kol\u00edn, sou\u010dasn\u00e1",
                 "place": "prav\u00fd b\u0159eh Labe",
                 "years_in_service": "1932-doposud",
@@ -941,8 +974,8 @@
                 "sources2": "",
                 "type": "Uhl\u00ed",
                 "owner": "p\u016fvodn\u011b ESSO, nyn\u00ed Veolia",
-                "description_short": "Elekr\u00e1rna byla vybudov\u00e1na na m\u00edst\u011b b\u00fdval\u00e9ho Horsk\u00e9ho cukrovaru na prav\u00e9m b\u0159ehu Labe v \u010d\u00edsti Z\u00e1lab\u00ed. Je \u010dasto citov\u00e1na fako architektonick\u00e1 pam\u00e1tka postaven\u00e1 ve stylu funkcionalismu architektem Jaroslavem Fragnerem. P\u016fvodn\u011b byl navr\u017een a postaven d\u011bn\u00fd kom\u00edn vysok\u00fd 117 m a \u0161irok\u00fd 5 m, kter\u00fd byl tehdy nejvy\u0161\u0161\u00edm kom\u00ednem v Evrop\u011b. Elketr\u00e1rna byla osozena uheln\u00fdmi kotli a 3 parn\u00edmi turb\u00ednami (st\u0159\u00eddav\u00fd proud). Po roce 1948 baly zn\u00e1rodn\u011bna a byla p\u0159id\u00e1na do Tepl\u00e1rensk\u00fdch z\u00e1vod\u016f Praha - Hole\u0161ovice, p\u0159e\u0161la \u010d\u00e1ste\u010dn\u011b na tepl\u00e1rensk\u00fd provoz a bylo v jedn\u00e1ni jej\u00ed zru\u0161en\u00ed. V 60. letech bylo rozhodnuto o jej\u00edm z\u00e1niku byl rozhodnuto o zru\u0161en\u00ed v\u0161ech 3 turb\u00edn a p\u0159e\u0161la na tepl\u00e1rensk\u00fd provoz. Elektr\u00e1rnu na \u010das zachr\u00e1nila op\u011bt stoupaj\u00edc\u00ed popt\u00e1vka o elektrickou energii, kdy v roce 1984 byl zprovozn\u011bn kotel na hn\u011bd\u00e9 uhl\u00ed. \u00dapln\u00e9 odstaven\u00ed elektr\u00e1rny (i tepl\u00e1rny) bylo pl\u00e1nov\u00e1no na rok 1989 v souvislosti s v\u00fdstavbou parn\u00edho nap\u00e1je\u010de z el. Chvaletice. Na\u0161t\u011b\u0161n\u00ed (pro elektr\u00e1rnu) do\u0161lo ke zm\u011bn\u011b politick\u00fdch a spole\u010densk\u00fdch pom\u011br\u016f. V roce 1992 vznikla akciov\u00e1 spole\u010dnostElektr\u00e1rna Kol\u00edn, bylo rozhodnuto k n\u00e1vrtu k v\u00fdrob\u011b elekt\u0159iny a v roce 1994 byl spu\u0161t\u011bn provoz kotle K6 pro spalov\u00e1n\u00ed plynu. Elekr\u00e1rna do sou\u010dasnostije\u0161t\u011b n\u011bkolikr\u00e1t zm\u011bnila majitele a v roce 2003 v n\u00ed byl uveden do provozu sou\u010dasn\u00fd hlavn\u00ed zdroj hn\u011bdouheln\u00fd kotel K8. V sou\u010dasnosti je majitelem spole\u010dnosti Veolia.       ",
-                "description1": "V odstavci jsem ozna\u010dil slovo mod\u0159e, bylo by tam dobr\u00e9 ud\u011blat odkaz na Kol\u00edn, p\u016fvodn\u00ed",
+                "description_short": "Elekr\u00e1rna byla vybudov\u00e1na na m\u00edst\u011b b\u00fdval\u00e9ho Horsk\u00e9ho cukrovaru na prav\u00e9m b\u0159ehu Labe v \u010d\u00edsti Z\u00e1lab\u00ed. Je \u010dasto citov\u00e1na fako architektonick\u00e1 pam\u00e1tka postaven\u00e1 ve stylu funkcionalismu architektem Jaroslavem Fragnerem. P\u016fvodn\u011b byl navr\u017een a postaven d\u011bn\u00fd kom\u00edn vysok\u00fd 117 m a \u0161irok\u00fd 5 m, kter\u00fd byl tehdy nejvy\u0161\u0161\u00edm kom\u00ednem v Evrop\u011b. Elketr\u00e1rna byla osozena uheln\u00fdmi kotli a 3 parn\u00edmi turb\u00ednami (st\u0159\u00eddav\u00fd proud). Po roce 1948 baly zn\u00e1rodn\u011bna a byla p\u0159id\u00e1na do Tepl\u00e1rensk\u00fdch z\u00e1vod\u016f Praha - Hole\u0161ovice, p\u0159e\u0161la \u010d\u00e1ste\u010dn\u011b na tepl\u00e1rensk\u00fd provoz a bylo v jedn\u00e1ni jej\u00ed zru\u0161en\u00ed. V 60. letech bylo rozhodnuto o jej\u00edm z\u00e1niku byl rozhodnuto o zru\u0161en\u00ed v\u0161ech 3 turb\u00edn a p\u0159e\u0161la na tepl\u00e1rensk\u00fd provoz. Elektr\u00e1rnu na \u010das zachr\u00e1nila op\u011bt stoupaj\u00edc\u00ed popt\u00e1vka o elektrickou energii, kdy v roce 1984 byl zprovozn\u011bn kotel na hn\u011bd\u00e9 uhl\u00ed. \u00dapln\u00e9 odstaven\u00ed elektr\u00e1rny (i tepl\u00e1rny) bylo pl\u00e1nov\u00e1no na rok 1989 v souvislosti s v\u00fdstavbou parn\u00edho nap\u00e1je\u010de z <span class=\"description-link 37\">el. Chvaletice</span>. Na\u0161t\u011b\u0161n\u00ed (pro elektr\u00e1rnu) do\u0161lo ke zm\u011bn\u011b politick\u00fdch a spole\u010densk\u00fdch pom\u011br\u016f. V roce 1992 vznikla akciov\u00e1 spole\u010dnost Elektr\u00e1rna Kol\u00edn, bylo rozhodnuto k n\u00e1vrtu k v\u00fdrob\u011b elekt\u0159iny a v roce 1994 byl spu\u0161t\u011bn provoz kotle K6 pro spalov\u00e1n\u00ed plynu. Elekr\u00e1rna do sou\u010dasnostije\u0161t\u011b n\u011bkolikr\u00e1t zm\u011bnila majitele a v roce 2003 v n\u00ed byl uveden do provozu sou\u010dasn\u00fd hlavn\u00ed zdroj hn\u011bdouheln\u00fd kotel K8. V sou\u010dasnosti je majitelem spole\u010dnosti Veolia.       ",
+                "description1": "",
                 "description2": "",
                 "description3": "",
                 "description4": "",
@@ -962,6 +995,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 37,
                 "name": "Chvaletice",
                 "place": "Chvaletice, Trn\u00e1vka (n\u011bkde mezi)",
                 "years_in_service": "1979-doposud",
@@ -970,8 +1004,8 @@
                 "sources2": "",
                 "type": "uheln\u00e1",
                 "owner": "V sou\u010dasnoti 7 energy",
-                "description_short": "Postavena v letch 1973-1979 na m\u00edst\u011b po t\u011b\u017eb\u011b pyritu. Do roku 2021 \u0161lo o nejlad\u0161\u00ed uhelnou elektr\u00e1rnu v \u010cR. M\u00e1 4 hm\u011bdouhlen\u00e9 kotle a 4 rovnotlak\u00e9 kondenza\u010dn\u00ed turb\u00edny, nap\u011bt\u00ed na svork\u00e1ch gener\u00e1toru je 15,75 kV a je pomoc\u00ed blokov\u00fdch transform\u00e1tor\u016f p\u0159ev\u00e1d\u011bno a p\u0159ipojeno na linku 400 kW. Elketr\u00e1rna je typick\u00e1 sv\u00fdm 300 m vysok\u00fdm kom\u00ednem a 4 100 m vysok\u00fdmi a 60 m  v r\u016fm\u011bu m\u011b\u0159ic\u00edmi chladic\u00edmi v\u011b\u017eemi. Po roce 1989 byla elektr\u00e1rna provozov\u00e1na spole\u010dnost\u00ed \u010cEZ. V roce 2011 bylo uva\u017eov\u00e1no  zru\u0161en\u00ed elektr\u00e1rny,p\u0159\u00edpadn\u011b jej\u00edm prodeji, jedn\u00edm z d\u016fvod\u016f byl n\u00e1kup emes\u00edch povolenek a obecn\u011b problematika vypou\u0161t\u011bn\u00fdch emis\u00ed. Elektr\u00e1rna se nakonec dostala spole\u010dnosti Sev.en EC, kter\u00e1 v roce 2016 zah\u00e1jila jej\u00ed modernizaci ke sn\u00ed\u017een\u00ed vypou\u0161t\u011bn\u00fdch emis\u00ed. Krom\u011b elekr\u00e1rensk\u00e9ho provozu je odpadn\u00ed teplo vyu\u017e\u00edv\u00e1no k dod\u00e1vk\u00e1m tepla do m\u011bsta Chvaletice, obce Trn\u00e1vka, dvou pr\u016fmyslov\u00fdch are\u00e1l\u016f mezi m\u011bstem a elektr\u00e1rnou a pro vlastn\u00ed provoz elektr\u00e1rny. Od pl\u00e1novan\u00e9ho parovodu do Kol\u00edna bylo nakonec upu\u0161t\u011bno, byl by neefektivn\u00ed.   ",
-                "description1": "V odstavci jsem ozna\u010dil slovo mod\u0159e, bylo by tam dobr\u00e9 ud\u011blat odkaz na Kol\u00edn, sou\u010dasn\u00e1",
+                "description_short": "Postavena v letch 1973-1979 na m\u00edst\u011b po t\u011b\u017eb\u011b pyritu. Do roku 2021 \u0161lo o nejlad\u0161\u00ed uhelnou elektr\u00e1rnu v \u010cR. M\u00e1 4 hm\u011bdouhlen\u00e9 kotle a 4 rovnotlak\u00e9 kondenza\u010dn\u00ed turb\u00edny, nap\u011bt\u00ed na svork\u00e1ch gener\u00e1toru je 15,75 kV a je pomoc\u00ed blokov\u00fdch transform\u00e1tor\u016f p\u0159ev\u00e1d\u011bno a p\u0159ipojeno na linku 400 kW. Elketr\u00e1rna je typick\u00e1 sv\u00fdm 300 m vysok\u00fdm kom\u00ednem a 4 100 m vysok\u00fdmi a 60 m  v r\u016fm\u011bu m\u011b\u0159ic\u00edmi chladic\u00edmi v\u011b\u017eemi. Po roce 1989 byla elektr\u00e1rna provozov\u00e1na spole\u010dnost\u00ed \u010cEZ. V roce 2011 bylo uva\u017eov\u00e1no  zru\u0161en\u00ed elektr\u00e1rny,p\u0159\u00edpadn\u011b jej\u00edm prodeji, jedn\u00edm z d\u016fvod\u016f byl n\u00e1kup emes\u00edch povolenek a obecn\u011b problematika vypou\u0161t\u011bn\u00fdch emis\u00ed. Elektr\u00e1rna se nakonec dostala spole\u010dnosti Sev.en EC, kter\u00e1 v roce 2016 zah\u00e1jila jej\u00ed modernizaci ke sn\u00ed\u017een\u00ed vypou\u0161t\u011bn\u00fdch emis\u00ed. Krom\u011b elekr\u00e1rensk\u00e9ho provozu je odpadn\u00ed teplo vyu\u017e\u00edv\u00e1no k dod\u00e1vk\u00e1m tepla do m\u011bsta Chvaletice, obce Trn\u00e1vka, dvou pr\u016fmyslov\u00fdch are\u00e1l\u016f mezi m\u011bstem a elektr\u00e1rnou a pro vlastn\u00ed provoz elektr\u00e1rny. Od pl\u00e1novan\u00e9ho parovodu do <span class=\"description-link 36\">Kol\u00edna</span> bylo nakonec upu\u0161t\u011bno, byl by neefektivn\u00ed.   ",
+                "description1": "",
                 "description2": "",
                 "description3": "",
                 "description4": "",
@@ -991,6 +1025,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 38,
                 "name": "Opatovice",
                 "place": "",
                 "years_in_service": "1959-doposud",
@@ -1020,6 +1055,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 39,
                 "name": "M\u011bln\u00edk I",
                 "place": "P\u0159ibli\u017en\u011b 13 km pod sooutokem Labe a Vltavy  ",
                 "years_in_service": "1960",
@@ -1049,6 +1085,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 40,
                 "name": "M\u011bln\u00edk II",
                 "place": "",
                 "years_in_service": "1966",
@@ -1068,7 +1105,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    14.4172844,
+                    14.4177844,
                     50.4138506
                 ],
                 "type": "Point"
@@ -1078,6 +1115,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 41,
                 "name": "M\u011bln\u00edk III",
                 "place": "",
                 "years_in_service": "1981",
@@ -1097,7 +1135,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    14.4172844,
+                    14.418284400000001,
                     50.4138506
                 ],
                 "type": "Point"
@@ -1107,6 +1145,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 42,
                 "name": "\u0160ternberk",
                 "place": "",
                 "years_in_service": "1890",
@@ -1136,6 +1175,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 43,
                 "name": "T\u0159ebovice",
                 "place": "ostrava",
                 "years_in_service": "1933-sou\u010dasnost",
@@ -1165,6 +1205,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 44,
                 "name": "V\u00edtkovice",
                 "place": "ostrava",
                 "years_in_service": "v\u00edc jak 1947- sou\u010dasnost",
@@ -1194,6 +1235,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 45,
                 "name": "Na Z\u00e1most\u00ed",
                 "place": "ostrava",
                 "years_in_service": "1896-1945",
@@ -1223,6 +1265,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 46,
                 "name": "Moravsk\u00e1 Ostrava",
                 "place": "ostrava",
                 "years_in_service": "1896-1967",
@@ -1252,6 +1295,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 47,
                 "name": "P\u0159erov",
                 "place": "m\u011bsto P\u0159erov",
                 "years_in_service": "1919-1965",
@@ -1281,6 +1325,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 48,
                 "name": "Tu\u0161imice I",
                 "place": "Tu\u0161imice",
                 "years_in_service": "1964-1998",
@@ -1310,6 +1355,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 49,
                 "name": "Tu\u0161imice II",
                 "place": "Tu\u0161imice",
                 "years_in_service": "1975-sou\u010dasnost",
@@ -1329,7 +1375,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    13.333958333333333,
+                    13.334458333333334,
                     50.38636388888889
                 ],
                 "type": "Point"
@@ -1339,6 +1385,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 50,
                 "name": "Prun\u00e9\u0159ov I",
                 "place": "z\u00e1padn\u00edm okraji severo\u010desk\u00e9 hn\u011bdouheln\u00e9 p\u00e1nve mezi Chomutovem a\u00a0Kl\u00e1\u0161tercem nad Oh\u0159\u00ed.",
                 "years_in_service": "1967-2020",
@@ -1368,6 +1415,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 51,
                 "name": "Prun\u00e9\u0159ov II",
                 "place": "z\u00e1padn\u00edm okraji severo\u010desk\u00e9 hn\u011bdouheln\u00e9 p\u00e1nve mezi Chomutovem a\u00a0Kl\u00e1\u0161tercem nad Oh\u0159\u00ed.",
                 "years_in_service": "1982-sou\u010dasnost",
@@ -1387,7 +1435,7 @@
             },
             "geometry": {
                 "coordinates": [
-                    13.259,
+                    13.259500000000001,
                     50.418
                 ],
                 "type": "Point"
@@ -1397,6 +1445,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 52,
                 "name": "D\u011btmarovice",
                 "place": "u\u00a0Ostravy, v\u00a0t\u011bsn\u00e9 bl\u00edzkosti polsk\u00fdch hranic a\u00a0hned vedle hlavn\u00ed \u017eelezni\u010dn\u00ed trat\u011b Bohum\u00edn\u2013\u017dilina",
                 "years_in_service": "1976-sou\u010dasnost",
@@ -1426,6 +1475,7 @@
             "type": "Feature",
             "properties": {
                 "icon": "industry",
+                "entry_id": 53,
                 "name": "Ledvice",
                 "place": "\u00fapat\u00ed v\u00fdchodn\u00ed \u010d\u00e1sti Kru\u0161n\u00fdch hor, mezi l\u00e1ze\u0148sk\u00fdmi m\u011bsty Teplice a\u00a0B\u00edlina",
                 "years_in_service": "1969-sou\u010dasnost",

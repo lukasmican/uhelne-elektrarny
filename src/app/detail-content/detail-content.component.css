@@ -1,0 +1,38 @@
+.detail-card-content {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.detail-text-wrapper {
+    flex-grow: 2;
+    max-width: 40em;
+    padding: 1em;
+    text-align: justify;
+
+}
+
+
+.images-wrapper {
+    flex-grow: 1;
+    top: 0;
+    width: 50%;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.description-link {
+    color: white;
+    font-weight: bold;
+}
+
+.description-link:hover {
+    cursor: pointer;
+}

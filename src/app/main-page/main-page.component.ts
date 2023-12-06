@@ -1,4 +1,4 @@
-import { ChangeDetectorRef, Component, ElementRef, ViewChild } from '@angular/core';
+import { ChangeDetectorRef, Component, ElementRef, ViewChild, ViewEncapsulation } from '@angular/core';
 import { Map, Popup, Marker } from 'maplibre-gl'
 import { Point } from 'geojson'
 import { PowerPlantDetails } from '../power-plant-details';
@@ -6,21 +6,25 @@ import { PowerPlantDetails } from '../power-plant-details';
 import { default as powerplants_json } from '../../assets/elektrarny_geojson.json';
 
 import { DeviceDetectorService, DeviceInfo } from 'ngx-device-detector';
+import { Location } from '@angular/common';
+import { ActivatedRoute } from '@angular/router';
 
 @Component({
   selector: 'app-main-page',
   templateUrl: './main-page.component.html',
-  styleUrls: ['./main-page.component.css']
+  styleUrls: ['./main-page.component.css'],
 })
 export class MainPageComponent {
   map: Map = null; // MapLibre GL Map object (MapLibre is ran outside angular zone, keep that in mind when binding events from this object)
   @ViewChild("detailcard") detail_card!: ElementRef;
+  @ViewChild("infocardwrapper") info_card!: ElementRef;
 
   detail_card_expanded = false;
 
   powerplant_details: PowerPlantDetails;
 
   powerplants: PowerPlantDetails[] = [];
+  powerplants_sorted: PowerPlantDetails[] = [];
   popup: Popup;
   marker: Marker;
 
@@ -29,16 +33,27 @@ export class MainPageComponent {
 
   constructor(
     private changeDetector: ChangeDetectorRef,
-    private deviceService: DeviceDetectorService
+    private deviceService: DeviceDetectorService,
+    private location: Location,
+    private route: ActivatedRoute
   ) {
     for (const element of powerplants_json.features) {
       this.powerplants.push(element.properties as PowerPlantDetails);
       this.powerplants[this.powerplants.length - 1].coordinates = [element.geometry.coordinates[0], element.geometry.coordinates[1]];
     }
-    this.powerplants.sort((a, b) => a.name.localeCompare(b.name))
+    this.powerplants_sorted = [...this.powerplants].sort((a, b) => a.name.localeCompare(b.name))
 
     this.deviceInfo = this.deviceService.getDeviceInfo();
     this.isMobile = this.deviceService.isMobile();
+    
+  }
+
+  ngAfterViewInit(){
+    var current_id = this.route.snapshot.paramMap.get('id');
+    if (current_id != null) {
+      this.info_card.nativeElement.classList.remove('info-card-enabled');
+      this.info_card.nativeElement.classList.add('info-card-disabled');
+    }
   }
 
 
@@ -52,6 +67,8 @@ export class MainPageComponent {
       this.powerplant_details = properties as PowerPlantDetails;
       this.powerplant_details.coordinates = [geometry.coordinates[0], geometry.coordinates[1]];
 
+      this.location.go("elektrarna/"+this.powerplant_details.entry_id);
+
       this.mapShowPopup(this.powerplant_details);
     });
 
@@ -64,6 +81,16 @@ export class MainPageComponent {
     this.map.on('mouseleave', 'elektrarny', () => {
       this.map.getCanvas().style.cursor = '';
     });
+
+    // var current_id = this.route.snapshot.paramMap.get('id');
+    // if (current_id != null) {
+    //   this.mapShowPowerPlantByID(Number(current_id));
+    // }
+
+    this.route.params.subscribe(params => {
+      this.mapShowPowerPlantByID(Number(params['id']));
+    });
+    
 
   }
 
@@ -92,10 +119,15 @@ export class MainPageComponent {
   }
 
   mapShowPowerPlantByID(powerplant_id: number) {
-    this.mapShowPowerPlant(this.powerplants[powerplant_id]);
+    for (const powerplant of this.powerplants){
+      if (powerplant.entry_id == powerplant_id){
+        this.mapShowPowerPlant(powerplant);
+      }
+    }
   }
   mapShowPowerPlant(powerplant: PowerPlantDetails) {
     this.powerplant_details = powerplant;
+    this.location.go("elektrarna/"+powerplant.entry_id);
     this.mapShowPopup(powerplant);
     this.mapFlyTo(powerplant.coordinates);
   }
