@@ -30,7 +30,9 @@
                     <span>Uhelné elektrárny v ČR</span>
                 </div>
 
-                <div>
+                <div style="display: flex; flex-direction: row; align-items: center; justify-content: flex-end">
+                    <div class="item_top_bar"><img src="assets/icon_open.png" style="height: 1em;"> V provozu </div>
+                    <div class="item_top_bar"><img src="assets/icon_closed.png" style="height: 1em;"> Mimo provoz</div>
                     <button mat-icon-button color="secondary" 
                         class="info-button" (click)="infocardwrapper.classList.remove('info-card-disabled');infocardwrapper.classList.add('info-card-enabled');">
                         <mat-icon>info</mat-icon>
@@ -119,7 +121,7 @@ Tento projekt vznikl v rámci předmětu HVT na ČVUT FEL.
 <li class="bibliography">
 Lukáš Michl
 </li><li class="bibliography">
-Tom Veris
+Tomáš Věříš
 </li><li class="bibliography">
 Martin Krýcha
 </li><li class="bibliography">

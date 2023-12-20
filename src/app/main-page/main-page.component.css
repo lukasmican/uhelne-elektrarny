@@ -219,3 +219,11 @@ a, a:hover, a:visited, a:active {
     text-decoration: none;
     word-wrap:break-word;
 }
+
+.item_top_bar{
+    font-size: medium;
+    font-weight: normal;
+    height: 2em;
+    margin-right: 1.5em;
+    vertical-align: top;
+}
