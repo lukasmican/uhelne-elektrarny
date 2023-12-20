@@ -1846,7 +1846,7 @@
       "source": "elektrarny",
       "layout": {
         "icon-image": "custom_icons:{icon}",
-        "icon-size": 0.04,
+        "icon-size": 0.08,
         "icon-allow-overlap": true
       }
 

@@ -203,4 +203,19 @@ a, a:hover, a:visited, a:active {
 .info-card-content-wrapper {
     color: white;
     padding-top: 1em;
+    overflow-y: scroll;
+}
+
+.introduction_paragraph {
+    text-align: justify;
+}
+
+.bibliography {
+    text-align: left;
+}
+
+.bibliography a {
+    color: white;
+    text-decoration: none;
+    word-wrap:break-word;
 }

@@ -3,6 +3,7 @@ export class PowerPlantDetails {
     entry_id = 0;
     name = "";
     place = "";
+    is_running = false;
     years_in_service = "";
     power = "";
     sources1 = "";
@@ -17,5 +18,7 @@ export class PowerPlantDetails {
     description5 = "";
     description6 = "";
     description7 = "";
+    img1 = "";
+    img2 = "";
     coordinates: [number, number] = [0, 0];
 }
