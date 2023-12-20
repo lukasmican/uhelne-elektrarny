@@ -227,3 +227,10 @@ a, a:hover, a:visited, a:active {
     margin-right: 1.5em;
     vertical-align: top;
 }
+
+
+@media (max-width: 600px) {
+    .item_top_bar {
+      display: none;
+    }
+  }

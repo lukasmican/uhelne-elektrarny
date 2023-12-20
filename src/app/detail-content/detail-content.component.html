@@ -16,8 +16,8 @@
         <div #description [innerHtml]="powerplant_details.description7"></div>
         <div>
             <h5>Zdroje:</h5>
-            <div [innerHtml]="powerplant_details.sources1"></div>
-            <div [innerHtml]="powerplant_details.sources2"></div>
+            <div class="sources" [innerHtml]="powerplant_details.sources1"></div>
+            <div class="sources" [innerHtml]="powerplant_details.sources2"></div>
         </div>
     </div>
     <div *ngIf="powerplant_details.img1 || powerplant_details.img2" class="images-wrapper">

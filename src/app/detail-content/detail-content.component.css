@@ -36,3 +36,7 @@
 .description-link:hover {
     cursor: pointer;
 }
+
+.sources {
+    word-wrap: break-word;
+}
